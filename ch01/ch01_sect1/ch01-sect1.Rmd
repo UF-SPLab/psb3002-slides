@@ -1,0 +1,194 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 1:  Introduction
+
+#### Introduction: What is Behavioral Neuroscience?
+#### Biological Explanations of Behavior
+#### Applications of Behavioral Neuroscience
+#### Understanding Human Consciousness
+#### Natural Selection and Evolution
+#### Ethical Issues in Research with Animals
+
+![:footer](chapter 1.1)
+
+---
+
+# Chapter 1:  Introduction
+
+#### .bold[Introduction: What is Behavioral Neuroscience?]
+#### .bold[Biological Explanations of Behavior]
+#### .bold[Applications of Behavioral Neuroscience]
+#### Understanding Human Consciousness
+#### Natural Selection and Evolution
+#### Ethical Issues in Research with Animals
+
+![:footer](chapter 1.1)
+
+
+---
+
+# Introduction: What is Behavioral Neuroscience?
+
+.pull-left[
+| Normal |  |  Pathology |
+|:--:|:--:|:--:|
+|  sensation|  |  addiction|
+|  motor activity|  |  neurodegenerative disorders|
+|arousal	| |brain/spinal cord injury|
+|motivation| 	|mood disorders|
+|language|	|developmental disorders|
+|socialization|	|cognitive aging|
+|anxiety/fear| 	|psychiatric disorders|
+|pain	| ||
+|reproductive behavior| ||
+
+
+]
+
+.pull-right[
+- study of physiological, evolutionary, & developmental mechanisms of behavior & experience
+- focuses on functioning of  nervous system & reciprocal interactions with body to control behavior
+- emphasis on both normal behaviors & pathology
+
+.polaroid[
+.rotate-right[
+![:image 40%, central nervous system](image1.png)
+]
+]
+]
+
+---
+
+# Introduction: What is Behavioral Neuroscience?
+
+#### Where do Behavioral Neuroscientists work?
+- **University**: research and teaching
+- **Research Institute**: research
+- **Pharmaceutical/Biotechnology Industries**: research
+
+#### What other disciplines contribute?
+- **Basic Research**: Neuroanatomy, Neurochemistry, Electrophysiology, Developmental Biology, Molecular Biology
+- **Preclinical/Clinical Research**: Neurology, Endocrinology, Psychiatry
+- integrative function of Behavioral Neuroscience
+
+.pull-left[![:image 70%, National Insititutes of Health logo](image2.png)]
+.pull-right[![:image 70%, NSF logo](image3.png)]
+
+
+---
+
+# Introduction: What is Behavioral Neuroscience?
+
+#### Methodological Approaches.
+- **Simplification**: procedures to reduce complexity of experiments without altering level of analysis
+- **Generalization**: general conclusions based on many observations  
+
+![:image 70%, animal models and instances of abuse](image4_5.png)
+
+---
+
+# Biological Explanations of Behavior
+
+#### Methodological Approaches.
+
+**Reductionism**: shift in level of analysis from behaving organism to neuronal systems, circuits, cells & molecules
+  
+**Explanatory Reductionism**: understanding components of a system that will ultimately explain behavioral characteristics
+  
+![:image 70%, diagram of reductionism](image6_9.png)
+
+
+---
+
+# Biological Explanations of Behavior
+
+.pull-left[
+.content-box-gray[
+#### Proximal Explanations
+- **PHYSIOLOGICAL**: relationship between behavior and activity of brain/other organs
+- **ONTOGENETIC**: development within individual (genes, nutrition, experience, etc.) 
+]]
+.pull-right[
+.content-box-green[
+#### Ultimate Explanations
+- **FUNCTIONAL**:  purpose served by particular behavior (adaptation for survival)
+- **PHYLOGENETIC**: evolutionary organization of the capacity for particular behavior
+]]
+
+.pull-right[![:image 50%, cartoon of singing bird](image10.png)]
+
+
+---
+
+# Applications of Behavioral Neuroscience
+
+#### The Human Genome Project. 
+- structure of DNA published April 25, 1953
+- human genome completely sequenced April 14, 2003
+- more than 99.99% accuracy
+- highly contiguous
+- only 1.1 – 1.4% of 3.2 billion base pairs encode proteins
+- approximately 24,000 genes
+- single nucleotide polymorphism (SNP)  .content-box-grey[
+.font200[![:color red](A) ![:color black](A) ![:color red](G G C T A A)] .font200[` --> `] .font200[![:color red](A) ![:color black](T) ![:color red](G G C T A A)]]
+- Behavioral Neuroscientists study functions of mapped genes and their products, interactions of resulting biochemistry with environmental events… as they relate to behavior.
+
+
+---
+
+# Applications of Behavioral Neuroscience
+
+#### The Proteome and Connectome Projects. 
+- genome project is just the blueprint
+- new focus on functional impacts
+
+.pull-left[![:image 70%, network map of protein interactions](image12.jpg)]
+
+.pull-right[![:image 70%, DTI human white matter](image13.png)]
+
+
+
+![:positionShape 75%, 30%, -60deg](images/up-arrow-red.png)
+
+--
+
+![:positionShape 70%, 80%, -60deg](images/up-arrow-red.png)
+
+
+---
+# Image Credits
+- slide 3:	 https://www.humanillnesses.com/Behavioral-Health-A-Br/The-Brain-and-Nervous-System.html
+- slide 4: https://www.nih.gov ; https://www.nsf.gov
+- slide 5:	photo from lab of D. Devine https://michaeljeffreys.wordpress.com/tag/addiction/
+- slide 6:	photo from lab of D. Devine https://science.nationalgeographic.com/science/photos/brain/
+	higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch12_illustr_audio_mp3_am/simulations/hear/neural_circuits.html  
+	https://classconnection.s3.amazonaws.com/811/flashcards/141811/jpg/neuron21320853416098.jpg  
+	www.publicdomainpictures.net/view-image.php?image=42718&picture=dna
+- slide 7: https://www.123rf.com/stock-photo/birdsong.html
+- slide 8: https://commons.wikimedia.org/wiki/File:Logo_HGP.jpg
+- slide 9:	Jeong, H., Mason, S.P., Barabasi, A.L. and Oltavi, Z.N. (2001). Lethality and centrality in protein networks.  Nature 411, 41-42.  doi: 10.1038/35075138  	https://images.frompo.com/w/connectome
+
+
+![:footer](chapter 1.1)
