@@ -1,0 +1,444 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# .font80[Chapter 2:  Structure and Function of Cells of the Nervous System]
+
+### Cells of the Nervous System
+   
+### Communication Within a Neuron
+   
+### Communication Between Neurons
+
+![:footer](chapter 2.1)
+
+---
+
+# .font80[Chapter 2:  Structure and Function of Cells of the Nervous System]
+
+### .bold[Cells of the Nervous System]
+- #### .bold[Neurons]
+- #### Glia
+  
+### Communication Within a Neuron
+  
+### Communication Between Neurons
+
+![:footer](chapter 2.1)
+
+
+---
+name: 2-1-3
+layout: true
+
+
+# Cells of the Nervous System
+
+- two principal kinds of cells: neurons and glia
+
+
+---
+name: 2-1-4
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons.
+- each part of the neuron plays a specific role in communication
+
+
+---
+name: 2-1-5
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons.
+
+- multipolar neuron
+- bipolar neuron
+- unipolar neuron
+
+
+
+---
+name: 2-1-6
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons.
+
+- specialized neurons for specialized functions
+
+
+
+---
+name: 2-1-7
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - The Plasma Membrane.
+- lipid bilayer with embedded proteins
+- all communication occurs across the membrane
+- some molecules are freely exchanged (e.g. CO2, H2O)
+- active transport of some ions and small molecules
+- transport or exocytosis of large molecules
+- selective permeability for ions
+
+
+---
+name: 2-1-8
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- cytoplasm: 
+    - fluid compartment of cell
+
+
+---
+name: 2-1-9
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- nucleus: 
+    - contains genomic material (DNA)
+
+
+---
+name: 2-1-10
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- DNA uncoils to expose a gene
+- mRNA is transcribed from the uncoiled DNA
+- mRNA exits nucleus and is translated into protein
+
+
+---
+name: 2-1-11
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+
+- proteins are essential structural and functional units of cells
+
+
+---
+name: 2-1-12
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- ribosomes: 
+    - ribonucleoprotein molecule
+
+
+---
+name: 2-1-13
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- rough endoplasmic reticulum: 
+    - docking ribosome
+    - protein synthesis & insertion
+
+
+
+---
+name: 2-1-14
+layout: true
+
+
+# Cells of the Nervous System
+
+### Neurons - Intracellular Organelles.
+- golgi apparatus: 
+    - packaging proteins into vesicles
+
+
+
+---
+name: 2-1-15
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- vesicles: transport of proteins and other molecules, exocytosis
+
+
+---
+name: 2-1-16
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- mitochondria: 
+    - energy storage and release
+
+
+
+---
+name: 2-1-17
+layout: true
+
+
+# Cells of the Nervous System
+### Neurons - Intracellular Organelles.
+- microtubules: 
+    - transport of vesicles, mitochondria, etc.
+
+
+
+---
+name: 2-1-18
+layout: true
+
+
+# Cells of the Nervous System
+
+
+### Neurons - Intracellular Organelles.
+
+- axonal transport along microtubules
+- kinesins: fast anterograde transport
+- dyneins: retrograde transport
+
+
+---
+name: 2-1-19
+layout: true
+
+
+# Cells of the Nervous System
+
+### Neurons - Intracellular Organelles.
+
+- axon terminal also contains: 
+    - microtubules
+    - mitochondria
+    - golgi
+    - enzymes
+    - vesicles…
+
+
+---
+name: 2-1-20
+layout: true
+
+
+# Image Credits
+
+- slide 3:	http://www.iricss.org/fa/NewsRelease/News/PublishingImages/1389_B/111289_Neuron_Glial _large.jpg
+- slide 4:	http://www.wpclipart.com/medical/anatomy/cells/neuron/neuron_large.png.html
+	http://www.wpclipart.com/science/experiments/chemical_synapse.png.html
+- slide 5:	https://classconnection.s3.amazonaws.com/544/flashcards/666544/png/neurons1317783116 6886.png
+	http://tle.westone.wa.gov.au/content/file/969144ed-0d3b-fa04-2e88-8b23de2a630c/1/human_  bio_science_3b.zip/content/002_nervous_control/images/pic011.gif
+	http://upload.wikimedia.org/wikipedia/commons/9/9e/Bipolar_Interneuron.png
+- slide 6:	https://classconnection.s3.amazonaws.com/59/flashcards/1042059/jpg/11326161712960.jpg
+- slide 7:	http://ww2.coastal.edu/kingw/psyc460/electricity/ion_channels.jpg
+- slides 8-9, 12-14, 16-17:	http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_  neuron_cell_diagram _en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png
+- slide 10:	http://i179.photobucket.com/albums/w311/Mjhavok/Untitled-1.gif
+- slide 11:	http://pubs.rsc.org/services/images/RSCpubs.ePlatform.Service.FreeContent.ImageService. svc/ImageService/Articleimage/2014/TB/c4tb00168k/c4tb00168k-f2_hi-res.gif
+- slide 15:	http://www.hhmi.org/sites/default/files/Bulletin/2014/Winter/Vesicle.gif
+- slide 18:	http://www.med.upenn.edu/holzbaurlab/assets/user-content/images/axonal-transport.png
+	http://en.wikipedia.org/wiki/Kinesin
+- slide 19:	http://www.rci.rutgers.edu/~uzwiak/AnatPhys/APFallLect17_files/image006.jpg
+
+![:footer](chapter 2.1)
+
+
+---
+template: 2-1-3
+count: false
+
+![:positionImage 20%, 30%, 0deg, 90%](image1.jpg)
+
+---
+template: 2-1-3
+count: false
+
+![:positionImage 20%, 30%, 0deg, 90%](image1.jpg)
+.Large[![:positionText 28%, 50%, 0deg, 3, green](neuron)]
+.Large[![:positionText 83%, 35%, 0deg, 3, green](neuron)]
+
+
+---
+template: 2-1-3
+count: false
+
+![:positionImage 20%, 30%, 0deg, 90%](image1.jpg)
+
+.Large[![:positionText 600%, 50%, 0deg, 3, green](neuron)]
+.Large[![:positionText 28%, 50%, 0deg, 3, green](neuron)]
+.Large[![:positionText 83%, 35%, 0deg, 3, green](neuron)]
+.Large[![:positionText 46%, 40%, 0deg, 3, purple](glia)]
+.Large[![:positionText 85%, 56%, 0deg, 3, purple](glia)]
+
+---
+template: 2-1-4
+![:positionImage 12%, 55%, 0deg, 90%](image2.png)
+
+
+---
+template: 2-1-5
+![:positionImage 15%, 35%, 0deg, 90%](image4.png)
+
+
+
+---
+template: 2-1-5
+count: false
+
+.pull-left[
+- multipolar interneuron	
+- bipolar interneuron
+]
+
+![:positionImage 15%, 35%, 0deg, 90%](image4.png)
+![:positionImage 55%, 3%, 0deg, 90%](image5.gif)
+
+![:positionImage 55%, 23%, 0deg, 50%](image6.png)
+
+
+---
+template: 2-1-6
+![:positionImage 185px, 90px, 0deg, 50%](image7.png)
+
+![:positionShape 330px, 220px, -45deg](images/up-arrow-deepred.png)
+
+![:positionShape 300px, 425px, -45deg](images/up-arrow-deepred.png)
+
+![:positionShape 275px, 500px, -45deg](images/up-arrow-deepred.png)
+
+![:positionShape 550px, 235px, -45deg](images/up-arrow-deepred.png)
+
+![:positionShape 550px, 485px, -45deg](images/up-arrow-deepred.png)
+
+<!--
+268 264
+245, 672px
+845px 151px
+260px, 770px
+729px,750px
+-->
+
+---
+template: 2-1-7
+![:positionImage 40%, 38%, 0deg, 95%](image8.png)
+
+.large.bolder[![:positionText 600%, 87%, 0deg, 5, blue](hydrophillic)]
+.large.bolder[![:positionText 60%, 87%, 0deg, 5, blue](hydrophillic)]
+.large[![:positionText 64%, 87.5%, 0deg, 5,purple](hydrophobic)]
+.large.bolder[![:positionText 68%, 88%, 0deg, 5,blue](hydrophillic)]
+
+
+---
+template: 2-1-8
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 60%, 62%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-9
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 58%, 56%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-10
+![:positionImage 40%, 30%, 0deg, 80%](image10.png)
+
+
+---
+template: 2-1-11
+![:positionImage 40%, 30%, 0deg, 90%](image11.png)
+
+
+---
+template: 2-1-12
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 48%, 52%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-13
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 53%, 59%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-14
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 52%, 51%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-15
+![:positionImage 30%, 40%, 0deg, 90%](image12.gif)
+
+
+---
+template: 2-1-16
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 63.5%, 52%, -45deg](images/up-arrow-deepred.png)
+
+![:positionShape 60%, 60%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-17
+![:positionImage 20%, 40%, 0deg, 90%](image9.png)
+
+![:positionShape 26%, 71%, -45deg](images/up-arrow-deepred.png)
+![:positionShape 63.5%, 48%, -45deg](images/up-arrow-deepred.png)
+![:positionShape 45%, 54%, -45deg](images/up-arrow-deepred.png)
+![:positionShape 67%, 82.5%, -45deg](images/up-arrow-deepred.png)
+
+---
+template: 2-1-18
+![:positionImage 40%, 10%, 0deg, 90%](image13.png)
+
+![:positionImage 30%, 60%, 0deg, 90%](image14.gif)
+
+
+---
+template: 2-1-19
+![:positionImage 25%, 30%, 0deg, 90%](image15.jpeg)
+
+---
+template: 2-1-20
