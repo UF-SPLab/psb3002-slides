@@ -1,0 +1,415 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+name: 12-2-1
+layout: true
+
+# Chapter 12:  Ingestive Behavior
+
+#### Physiological Regulatory Mechanisms
+#### .bold[Fluid Regulation]
+#### Nutrition and Metabolism
+#### Obesity and Anorexia / Bulimia
+
+![:footer](Chapter 12.2)
+
+
+
+---
+name: 12-2-2
+layout: true
+
+
+# Drinking
+### Body Fluids. 
+
+> "- “Water, water, everywhere, </br>And all the boards did shrink;</br>Water, water, everywhere, </br> Nor any drop to drink."</br> - Samuel Taylor Coleridge
+
+
+
+seawater [salt] = *3.5%*  
+body [salt] = *0.9%*
+
+
+---
+name: 12-2-3
+layout: true
+
+# Drinking
+### Body Fluids. 
+- **hypertonic**: high salt concentration
+    - will draw fluid out of cells
+- **isotonic**: equal in osmotic pressure to contents of cells
+    - cells neither gain or lose H2O
+- **hypotonic**: low salt concentration
+    - cells will absorb H2O by osmosis
+
+---
+name: 12-2-4
+layout: true
+
+# Drinking
+### Body Fluids.
+- loss of H2O through evaporation, perspiration, excretion
+- usually, replacement with excess H2O and NaCl
+
+<!--
+H2O is lost by
+evaporation
+concentration 
+of interstitial
+fluid increases
+capillaries lose
+H2O by osmosis
+cells lose H2O
+by osmosis
+-->
+
+---
+name: 12-2-5
+layout: true
+
+# Drinking
+### Body Fluids.
+.pull-left[
+- water deficit can impair circulation, and interfere with normal chemical reactions in cells
+- water excess (rare) could increase circulatory pressure and rupture cell membranes
+]
+
+---
+name: 12-2-6
+layout: true
+
+
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+.pull-left[
+**Hypovolemic (volumetric) thirst**:
+- loss of fluid volume
+  
+**Osmotic (osmometric) thirst**:
+- increased extracellular solute concentration 
+]
+
+
+---
+name: 12-2-7
+layout: true
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+**Osmotic (osmometric) thirst**:
+- increased extracellular solute concentration
+- draws H2O out of cells
+- detected by specialized neurons
+    - known as osmoreceptors
+
+
+
+---
+name: 12-2-8
+layout: true
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+**Osmotic (osmometric) thirst**:
+- osmoreceptors in OVLT and SFO (hypothalamus near 3rd ventricle)
+
+<!--
+SFO (subfornical organ)
+SFO
+OVLT (organum
+vasculosum of
+lamina terminalis)
+OVLT
+-->
+
+---
+name: 12-2-9
+layout: true
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+.pull-left[
+**Osmotic (osmometric) thirst**:
+- osmoreceptors in SON (hypothalamus, </br>projecting to posterior pituitary)
+]
+
+<!--
+PVN (paraventricular nucleus)
+SON (supraoptic
+nucleus)
+secretion of
+vasopressin (ADH)
+-->
+
+---
+name: 12-2-10
+layout: true
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+**Osmotic (osmometric) thirst**:
+- shrinkage increases firing of action potentials
+
+
+---
+name: 12-2-11
+layout: true
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+.pull-left[
+**Hypovolemic (volumetric) thirst**:
+- loss of fluid isotonic volume
+- loss of vascular fluid does not affect the </br>intracellular fluid compartment
+]
+
+
+---
+name: 12-2-12
+layout: true
+
+# Drinking
+### Osmotic and Hypovolemic Thirst. 
+**Hypovolemic (volumetric) thirst**:
+- kidneys detect decreases in vascular flow
+    - secrete renin
+- splits </br>angiotensinogen → angiotensin I → angiotensin II
+
+<!--
+hypovolemia
+reduced flow of
+blood to kidneys
+renin
+angiotensinogen
+angiotensin I
+angiotensin II
+retention of Na+
+retention of H2O
+vasoconstriction
+Na+ appetite
+thirst
+-->
+
+---
+name: 12-2-13
+layout: true
+
+
+# Drinking
+### Neural Mechanisms of Thirst. 
+- osmoreceptors in SON, OVLT and SFO
+- angiotensin receptors in SFO
+- OVLT/SFO → median preoptic
+  hypothalamus
+- SON → posterior pituitary, to 
+  release AVP
+
+<!--
+SFO
+
+median
+preoptic
+nucleus
+OVLT
+-->
+
+---
+name: 12-2-14
+layout: true
+
+# Drinking
+### Neural Mechanisms of Thirst. 
+- circumventricular organs indirectly trigger activity of anterior cingulate cortex → sensation of thirst
+- adequate drinking = immediate decrease activity of ACC and decrease in thirst
+- activity remains elevated in neurons of OVLT and SFO
+  until water is absorbed
+
+---
+name: 12-2-15
+layout: true
+
+# Image Credits
+
+- title slide:	http://worldleaderproposal.com/images/larson_camel.jpg
+- slide 2:	http://upload.wikimedia.org/wikipedia/commons/2/26/Rime_of_the_Ancient_Mariner-Albatross-Dore.jpg
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 3-4:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 4:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 5:	http://s648.photobucket.com/user/monous/media/overworked-staff-repercussions.jpg.html
+- slide 6-7:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 8:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 9:	http://what-when-how.com/wp-content/uploads/2012/04/tmp3632_thumb1.jpg
+- slide 10:	http://jasn.asnjournals.org/content/18/12/3056/F1.large.jpg
+- slide 11:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 12-13:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 14:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+
+![:footer](Chapter 12.2)
+
+---
+template: 12-2-1
+
+![:positionImage 30%, 50%, 0deg, 90%](Picture1.png)
+
+![:positionText 20%, 60%, 0deg, 90%](Well, this isn’t a cheerful sign!)
+
+---
+class: clear
+template: 12-2-2
+
+
+![:positionImage 1%, 40%, 0deg, 550px](image2.png)
+
+---
+class: clear
+template: 12-2-2
+count: false
+
+![:positionImage 1%, 40%, 0deg, 550px](image2.png)
+![:positionImage 46%, 2%, 0deg, 375px](image3.jpeg)
+
+---
+template: 12-2-3
+
+![:positionImage 12%, 60%, 0deg, 350px](image6.jpeg)
+
+
+---
+template: 12-2-3
+count: false
+
+![:positionImage 36%, 35%, 0deg, 700px](slide12-2-3.png)
+![:positionImage 12%, 60%, 0deg, 350px](image6.jpeg)
+
+
+---
+template: 12-2-4
+![:positionImage 40%, 40%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 12-2-5
+
+![:positionImage 25%, 50%, 0deg, 90%](image8.jpeg)
+
+
+![:positionImage 40%, 5%, 0deg, 90%](image9.png)
+
+
+---
+template: 12-2-6
+
+![:positionImage 40%, 47%, 0deg, 450px](image10.jpg)
+
+.bold[![:positionText 350%, 52%, 0deg](hypovolemic thirst)]
+.bold[![:positionText 35%, 50%, 0deg](hypovolemic thirst)]
+.bold[![:positionText 35%, 73%, 0deg](osmotic thirst)]
+
+---
+template: 12-2-7
+
+![:positionImage 40%, 47%, 0deg, 450px](image10.jpg)
+
+![:positionImage 12%, 42%, 0deg, 600px](image5.jpg)
+
+.bold[![:positionText 350%, 52%, 0deg](hypovolemic thirst)]
+.bold[![:positionText 35%, 50%, 0deg](hypovolemic thirst)]
+.bold[![:positionText 35%, 73%, 0deg](osmotic thirst)]
+
+
+---
+template: 12-2-8
+![:positionImage 36%, 10%, 0deg, 90%](image11.jpg)
+
+
+---
+template: 12-2-9
+![:positionImage 15%, 45%, 0deg, 85%](image12.jpg)
+
+
+---
+template: 12-2-10
+
+![:positionImage 40%, 10%, 0deg, 90%](image13.jpg)
+
+.bold[![:positionText 350%, 520%, 0deg, 3](thirst)]
+.bold[![:positionText 54.75%, 23%, 0deg, 3](primary</br>osmo-</br>receptor)]
+
+---
+template: 12-2-10
+count: false
+
+![:positionImage 40%, 10%, 0deg, 90%](image14.jpg)
+
+.bold[![:positionText 200%, 52%, 0deg, 3](t)]
+.bold[![:positionText 54.75%, 23%, 0deg, 3](primary</br>osmo-</br>receptor)]
+.bold[![:positionText 49%, 63%, 0deg, 3](thirst)]
+.bold[![:positionText 72%, 47%, 0deg, 3](AVP)]
+
+
+
+
+
+---
+template: 12-2-11
+
+![:positionImage 40%, 47%, 0deg, 450px](image10.jpg)
+
+
+---
+template: 12-2-11
+count: false
+
+![:positionImage 20%, 50%, 0deg, 90%](image15.jpg)
+![:positionImage 40%, 47%, 0deg, 450px](image10.jpg)
+
+.bold[![:positionText 350%, 52%, 0deg, 3](hypovolemic thirst)]
+.bold[![:positionText 35%, 50%, 0deg, 3](hypovolemic thirst)]
+.bold[![:positionText 35%, 73%, 0deg, 3](osmotic thirst)]
+
+---
+template: 12-2-12
+
+![:positionImage 12%, 47%, 0deg, 550px](slide12-2-12.png)
+
+
+
+---
+template: 12-2-13
+
+
+
+![:positionImage 25%, 41%, 0deg, 680px](image18.jpeg)
+
+
+---
+template: 12-2-14
+
+![:positionImage 40%, 10%, 0deg, 90%](image19.jpeg)
+
+---
+template: 12-2-15

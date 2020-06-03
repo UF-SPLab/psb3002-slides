@@ -1,0 +1,38 @@
+a, a > code, a > href  {
+  color: #531fff;/*rgb(249, 38, 114);*/
+  /*text-decoration: none;*/
+}
+
+
+div.footer {
+    background-color: #23373B;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+}
+div.footer span {
+    font-size: 20pt;
+    color: #F7F8FA;
+    position: absolute;
+    left: 15px;
+    bottom: 2px;
+    text-align: center;
+
+}
+
+.remark-slide-number {
+  font-size: 13pt;
+  font-family: 'Fira Sans';
+  color: #272822; /*#FAFAFA;*/
+  opacity: 1;
+  z-index: 1;
+}
+.inverse .remark-slide-number {
+  font-size: 13pt;
+  font-family: 'Fira Sans';
+  color: #FAFAFA;
+  opacity: 1;
+  z-index: 1;
+}

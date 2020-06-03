@@ -1,0 +1,280 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 9:  Sleep and Biological Rhythms
+
+#### Introduction - Physiology of Sleep</br>Why Do We Sleep??</br>.bold[The Role of Sleep in Learning and Memory]</br>.bold[Sleep Across the Lifespan]</br>.bold[Sensory Processing and Sleep]</br>Mechanisms of Sleep</br>Biological Clocks</br>Dreaming</br>Sleep Disorders
+
+![:footer](chapter 9.3)
+
+
+---
+name: 9-3-2
+layout: true
+
+# The Role of Sleep in Learning and Memory
+### Sleep and Learning. 
+
+
+---
+name: 9-3-3
+layout: true
+
+# The Role of Sleep in Learning and Memory
+### Sleep and Learning. 
+- declarative (explicit) memory and non-declarative (implicit) memory
+
+
+---
+name: 9-3-4
+layout: true
+
+# The Role of Sleep in Learning and Memory
+### Sleep and Learning. 
+- procedural memory improved by REM sleep
+- declarative memory improved by SWS
+
+
+
+---
+name: 9-3-5
+layout: true
+
+# The Role of Sleep in Learning and Memory
+### Sleep and Learning. 
+- procedural memory improved by REM sleep
+- declarative memory improved by SWS
+
+
+---
+name: 9-3-6
+layout: true
+
+# The Role of Sleep in Learning and Memory
+### Sleep and Learning. 
+- subjects trained on virtual reality task, then nap
+- if awakened during nap (SWS), subjects who reported thoughts related to task did better than subjects who reported thoughts not related to task
+
+---
+name: 9-3-7
+layout: true
+
+# Sleep Across the Lifespan
+### Infancy/Adulthood/Old Age. 
+- more sleep in infancy than in
+  adulthood
+- more REM in infancy
+
+---
+name: 9-3-8
+layout: true
+
+# Sleep Across the Lifespan
+### Infancy/Adulthood/Old Age. 
+- less REM, more frequent nocturnal awakening in aged
+
+---
+name: 9-3-9
+layout: true
+
+# Sensory Processing and Sleep
+.pull-left[
+### Passive Sensory Theory of Sleep. 
+- “Sleep is caused by a reduction of sensory input to the brain (Bremer, 1935)”
+- midcollicular transection (cerveau isolé) results in forebrain EEG that is almost entirely SWS
+- only interrupted by visual or olfactory input
+]
+
+---
+name: 9-3-10
+layout: true
+
+# Sensory Processing and Sleep
+.pull-left[
+### Passive Sensory Theory of Sleep. 
+- caudal brainstem transection (encephale isolé; cut most of same sensory fibers as cerveau isolé preparation) does not disrupt normal sleep/wake cycles
+]
+
+---
+name: 9-3-11
+layout: true
+
+# Sensory Processing and Sleep
+### Reticular Theory of Wakefulness. 
+- “A wakefulness-producing area is located between the levels of the cerveau isolé and the encephale isolé”
+- partial cerveau isolé  only produced constant SWS if lesion included part of reticular formation (RF)
+- stimulation of RF awakens sleeping animals
+
+
+
+---
+name: 9-3-12
+layout: true
+
+# Image Credits
+
+- title slide:	https://d39ya49a1fwv14.cloudfront.net/wp-content/uploads/2012/09/200452500-001.jpg
+	http://site.us-mattress.com/hfs/us-mattress/research-center/elderly-couple-sleeping.jpg
+- slide 2:	http://blog.lib.umn.edu/paldr001/myblog/learn_sleep_0.jpg
+	http://www.noeticscience.co.uk/wp-content/uploads/2012/05/sleep-big.jpg
+- slide 3:	drawn by D.P. Devine
+- slide 4:	Mednick, S.A., Nakayama, K., and Stickgold, R. (2003).  Sleep-dependent learning: A nap is as good as a night, Nature Neuroscience, 6: 697-698. 
+- slide 5:	Tucker, M.A., Hirota, Y., Wamsley, E.J., Lau, H., Chacklader,A., and Fishbein, W. (2006).  A daytime nap containing solely non-REM sleep enhances declarative, but not procedural memory, Neurobiology of Learning and memory, 86: 241-247. 
+- slide 6:	Wamsley, E.J., Tucker, M., Payne, J.D., Benavides, J.A., and Stickgold, R. (2010).  Dreaming of a learning task is associated with enhanced sleep-dependent memory consolidation. Current Biology. 20: 850-855.
+- slide 7:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+	http://fruitsbenefitshealth.com/wp-content/uploads/2015/04/baby-sleep-1.jpg
+
+![:footer](chapter 9.3)
+
+---
+name: 9-3-13
+layout: true
+
+# Image Credits
+
+- slide 8-10: Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 11:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+	http://www.marquette.edu/health-sciences/images/neurosciencebrainscopy.jpg
+
+![:footer](chapter 9.3)
+
+
+---
+template: 9-3-2
+
+![:positionImage 15%, 50%, 0deg, 400px](image3.jpeg)
+
+![:positionImage 25%, 5%, 0deg, 350px](image4.png)
+
+---
+template: 9-3-3
+
+![:positionImage 30%, 20%, 0deg, 70%](slide9-3-3.png)
+
+<!--
+long-term memory
+declarative memory
+non-declarative memory
+
+semantic
+(words)
+episodic
+(events)
+procedural
+(skills/habits)
+associative
+conditioning
+priming
+(_ _ AMP)
+non-associative
+conditioning
+-->
+
+---
+template: 9-3-4
+
+![:positionImage 35%, 5%, 0deg, 90%](image5.gif)
+
+![:positionImage 35%, 50%, 0deg, 90%](image6.jpg)
+
+
+---
+template: 9-3-5
+
+![:positionImage 40%, 5%, 0deg, 120%](image7.jpg)
+
+![:positionImage 40%, 50%, 0deg, 120%](image8.jpg)
+
+<!--
+
+nondeclarative
+visual discrimination
+
+-->
+
+---
+template: 9-3-6
+
+![:positionImage 40%, 60%, 0deg, 350px](image9.jpg)
+
+![:positionImage 40%, 5%, 0deg, 90%](image10.jpeg)
+
+<!--
+non-declarative 
+mirror tracing task
+declarative list of
+paired words task
+-->
+
+---
+template: 9-3-7
+
+![:positionImage 15%, 50%, 0deg, 350px](image11.jpeg)
+
+![:positionImage 32%, 10%, 0deg, 450px](image12.jpeg)
+
+![:positionImage 60%, 10%, 0deg,450px](image13.png)
+
+
+---
+template: 9-3-8
+
+![:positionImage 65%, 5%, 0deg, 450px](image14.jpeg)
+
+
+![:positionImage 30%, 48%, 0deg,550px](image15.jpeg)
+
+![:positionImage 30%, 5%, 0deg, 450px](image12.jpeg)
+
+
+---
+template: 9-3-9
+
+![:positionImage 30%, 50%, 0deg, 550px](image16.jpg)
+
+
+---
+template: 9-3-10
+![:positionImage 15%, 50%, 0deg,550px](image17.jpg)
+
+
+---
+template: 9-3-11
+
+![:positionImage 50%, 5%, 0deg, 90%](slide9-3-11.png)
+
+![:positionImage 33%, 50%, 0deg, 90%](image18.jpeg)
+
+<!--
+Reticular Formation
+A = cerveau isole: permanent SWS
+B = encephale isole = alternating wakefulness and sleep
+C = midpontine transection = permanent wakefulness
+-->
+
+---
+template: 9-3-12
+
+---
+template: 9-3-13

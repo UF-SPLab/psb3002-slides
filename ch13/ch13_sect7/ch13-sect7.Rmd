@@ -1,0 +1,508 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+# Chapter 13:  Learning and Memory
+
+#### The Nature of Learning</br>Four Principal Types of Learning</br>Two Principal Types of Memory</br>Memory Consolidation</br>Synaptic Plasticity</br>.tiny[<i class="em em-black_small_square"></i>Electrophysiological mechanisms]</br>.tiny[<i class="em em-black_small_square"></i>Biochemical mechanisms]</br>Neurobiological Mechanisms</br>.bold[Disorders]
+
+
+
+![:footer](Chapter 13.7)
+
+---
+name: 13-7-2
+layout: true
+
+# Disorders
+### Retrograde and Anterograde Amnesia. 
+- retrograde amnesia = loss of memory prior to brain insult
+- anterograde amnesia = loss of ability to formulate new memories after brain damage
+
+---
+name: 13-7-3
+layout: true
+
+# Disorders
+### Retrograde and Anterograde Amnesia - TBI. 
+- concussion (mild traumatic brain injury or MTBI)
+
+---
+name: 13-7-4
+layout: true
+
+
+# Disorders
+### Retrograde and Anterograde Amnesia - TBI. 
+- traumatic brain injury (TBI)
+- closed head injury, or open injury
+
+---
+name: 13-7-5
+layout: true
+
+# Disorders
+### Anterograde Amnesia - Korsakoff’s Syndrome.
+- usually due to alcohol abuse
+- thiamine (B1) deficiency
+- cortical atrophy
+- destruction of mammillary bodies, damage to thalamus
+
+---
+name: 13-7-6
+layout: true
+
+# Disorders
+### Anterograde Amnesia - Korsakoff’s Syndrome.
+- denial of impairment
+- confabulation
+
+---
+name: 13-7-7
+layout: true
+
+# Disorders
+### Anterograde Amnesia - Patient H.M. 
+- born 1926, died 2008
+- injured in 1935, intractable epilepsy
+- medial temporal lobectomy in 1953
+- severe anterograde amnesia, partial retrograde amnesia
+- intact procedural memory
+
+---
+name: 13-7-8
+layout: true
+
+# Disorders
+### Anterograde Amnesia - Patient H.M. 
+- bilateral surgical procedure removed:
+- hippocampal formation
+- entorhinal cortex
+- most of amygdala
+- part of anterolateral temporal cortex
+
+---
+name: 13-7-9
+layout: true
+
+# Disorders
+### Anterograde Amnesia. 
+- unimpaired procedural memory
+- unimpaired skill learning
+- unimpaired perceptual learning
+- unimpaired S/R learning
+- unimpaired working memory
+
+---
+name: 13-7-10
+layout: true
+
+# Disorders
+### Anterograde Amnesia. 
+- unimpaired procedural memory
+- unimpaired skill learning
+- unimpaired perceptual learning
+- unimpaired S/R learning
+- unimpaired working memory
+
+---
+name: 13-7-11
+layout: true
+
+# Disorders
+### Anterograde Amnesia. 
+- unimpaired procedural memory
+- unimpaired skill learning
+- unimpaired perceptual learning
+- unimpaired S/R learning
+- unimpaired working memory
+
+<!--
+neutral tone (CS)
+airpuff (US)
+airpuff nozzle
+attached to glasses
+neutral tone (CS)
+blink detection (EMG)
+-->
+
+---
+name: 13-7-12
+layout: true
+
+# Disorders
+### Anterograde Amnesia. 
+- unimpaired procedural memory
+- unimpaired skill learning
+- unimpaired perceptual learning
+- unimpaired S/R learning
+- unimpaired working memory
+
+---
+name: 13-7-13
+layout: true
+
+# Disorders
+### Anterograde Amnesia.
+.pull-left[
+- consolidation of procedural memory during </br> REM sleep
+- non-hippocampal/temporal lobe mechanism
+]
+<!--
+
+name: 13-7-14
+layout: true
+
+# Disorders
+### Alzheimer’s Disease. 
+- most common form of age-associated dementia
+- initial signs involve medial temporal lobe function
+- distant past memory relatively preserved
+- impaired consolidation of new declarative memories
+- progressive decline in multiple cognitive domains
+- end stage patients are often mute, severely disabled
+
+name: 13-7-15
+layout: true
+
+# Disorders
+### 
+healthy neurons
+diseased neurons
+
+Alzheimer’s Disease. 
+- extracellular amyloid plaques
+- intracellular neurofibrillary tau tangles
+
+name: 13-7-16
+layout: true
+
+# Disorders
+### Alzheimer’s Disease. 
+- extracellular amyloid plaques
+- neurofibrillary tau tangles
+
+name: 13-7-17
+layout: true
+
+# Disorders
+### Alzheimer’s Disease. 
+- extracellular amyloid plaques
+- neurofibrillary tau tangles
+
+name: 13-7-18
+layout: true
+
+# Disorders
+### Alzheimer’s Disease. 
+- initially in medial temporal lobe
+- later widespread pathology
+
+
+name: 13-7-19
+layout: true
+
+# Disorders
+### Alzheimer’s Disease - Treatments. 
+- AChE inhibitor: donepezil (Aricept)
+- NMDA receptor antagonist: memantine (Namenda)
+
+name: 13-7-20
+layout: true
+
+# Disorders
+### Symptomatic Treatment for Alzheimer’s Disease.
+
+name: 13-7-21
+layout: true
+
+# Disorders
+### Disease-Modifying Treatment for Alzheimer’s Disease. 
+
+name: 13-7-22
+layout: true
+
+# Disorders
+### Alzheimer’s Disease
+   - Research. 
+- focus on tauopathy
+
+-->
+
+---
+name: 13-7-23
+layout: true
+
+# Image Credits
+
+- slide 2:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 3:	http://www.momsteam.com/files/images/Tebow_concussion_helmet_to_helmet_contact.jpg
+	http://www.slate.com/content/dam/slate/archive/2009/09/1_123125_123037_2208106_ 2227094_090929_snut_tebowtn.jpg.CROP.original-original.jpg
+	http://www.cbssports.com/images/collegefootball/tebowconcussion.jpg
+	http://media.cmgdigital.com/shared/img/photos/2012/08/13/24/0b/slideshow_1282106_tebow.jpg
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 4:	http://upload.wikimedia.org/wikipedia/commons/f/f2/Trauma_subdural_arrows.jpg
+- slide 5:	http://tn.en.fishki.net/20/preview/1226113.jpg
+	http://nawrot.psych.ndsu.nodak.edu/Courses/465Projects11/Korsakoffs/Korsakoffs.vs. alcoholic dementia_files/image005.jpg.
+- slide 6:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 7-9:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 10:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing.
+- slide 11:	http://www.nature.com/npp/journal/v33/n6/thumbs/1301506f1th.jpg
+- slide 12:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing.
+
+
+![:footer](Chapter 13.7)
+
+---
+name: 13-7-24
+layout: true
+
+# Image Credits
+
+- slide 13:	http://2.bp.blogspot.com/-cBbtpXEiJFU/UXapaiSth1I/AAAAAAAAFOs/1sCQoeFAif0/s1600/ 3.png
+- slide 14:	http://upload.wikimedia.org/wikipedia/commons/a/a5/Alzheimer’s_disease_brain_ comparison.jpg
+- slide 15:	http://www.brightfocus.org/assets/images/plaques_and_tangles_border.jpg
+- slide 16:	http://www.pruebayerror.net/wp-content/uploads/2011/03/placasamiloides1.jpg
+	https://www.alz.org/braintour/images/plaques.jpg
+- slide 17:	https://universe-review.ca/I10-88-disease.jpg
+- slide 18:	https://www.mccare.com/images/alzprogress.png
+- slide 19:	https://s-media-cache-ak0.pinimg.com/236x/d3/80/94/d380947ab100a82e67aa513fd1a05cc7.jpg
+- slide 20:	http://www.cnsspectrums.com/userdocs/articleimages/101/ADChrist1big.jpg
+- slide 21:	http://www.cnsspectrums.com/userdocs/articleimages/101/ADChrist2big.jpg
+- slide 22:	http://primarypsychiatry.com/wp-content/uploads/import/Desai_figurebig.jpg
+
+
+![:footer](Chapter 13.7)
+
+
+---
+template: 13-7-2
+![:positionImage 35%, 10%, 0deg, 90%](image1.jpeg)
+
+
+---
+template: 13-7-3
+![:positionImage 40%, 15%, 0deg, 90%](image6.jpeg)
+
+
+---
+template: 13-7-4
+![:positionImage 25%, 40%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 13-7-5
+![:positionImage 42%, 50%, 0deg, 500px](image8.jpeg)
+
+![:positionImage 42%, 15%, 0deg, 50%](image9.png)
+
+
+---
+template: 13-7-6
+![:positionImage 22%, 30%, 0deg, 550px](image10.png)
+
+
+---
+template: 13-7-7
+
+![:positionImage 20%, 50%, 0deg, 450px](image12.jpeg)
+
+![:positionImage 40%, 5%, 0deg, 350px](image11.jpeg)
+
+
+---
+template: 13-7-8
+![:positionImage 22%, 40%, 0deg, 600px](image13.jpeg)
+
+
+---
+template: 13-7-9
+
+![:positionImage 46%, 2%, 0deg, 900px](image15.jpg)
+![:positionImage 12%, 65%, 0deg, 350px](image14.jpeg)
+
+
+---
+template: 13-7-10
+
+
+![:positionImage 50%, 5%, 0deg, 600px](image21.jpg)
+
+---
+template: 13-7-10
+count: false
+
+![:positionImage 50%, 5%, 0deg, 600px](image20.jpg)
+
+---
+template: 13-7-10
+count: false
+
+![:positionImage 50%, 5%, 0deg, 600px](image19.jpg)
+
+---
+template: 13-7-10
+count: false
+
+![:positionImage 50%, 5%, 0deg, 600px](image18.jpg)
+
+---
+template: 13-7-10
+count: false
+
+![:positionImage 50%, 5%, 0deg, 600px](image17.jpg)
+
+
+---
+template: 13-7-10
+count: false
+
+![:positionImage 0%, 50%, 0deg, 300px](image16.jpeg)
+
+
+---
+template: 13-7-11
+![:positionImage 15%, 40%, 0deg, 500px](image22.jpg)
+
+
+---
+template: 13-7-12
+
+![:positionImage 12%, 40%, 0deg, 450px](image23.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image24.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image25.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image26.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image27.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image26.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image25.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image24.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image26.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image25.jpg)
+
+---
+template: 13-7-12
+count: false
+
+![:positionImage 12%, 40%, 0deg, 450px](image27.jpg)
+
+
+---
+template: 13-7-13
+![:positionImage 15%, 45%, 0deg, 85%](image28.png)
+
+<!--
+
+template: 13-7-14
+![:positionImage 20%, 30%, 0deg, 90%](image29.jpeg)
+
+
+template: 13-7-15
+![:positionImage 20%, 30%, 0deg, 90%](image30.jpg)
+
+template: 13-7-16
+![:positionImage 20%, 30%, 0deg, 90%](image31.png)
+
+![:positionImage 20%, 30%, 0deg, 90%](image32.jpeg)
+
+template: 13-7-17
+![:positionImage 20%, 30%, 0deg, 90%](image33.jpg)
+
+![:positionImage 20%, 30%, 0deg, 90%](image34.jpg)
+
+
+
+template: 13-7-18
+![:positionImage 20%, 30%, 0deg, 90%](image35.png)
+
+
+
+template: 13-7-19
+![:positionImage 20%, 30%, 0deg, 90%](image36.jpeg)
+
+![:positionImage 20%, 30%, 0deg, 90%](image37.jpeg)
+
+
+template: 13-7-20
+![:positionImage 20%, 30%, 0deg, 90%](image38.jpg)
+
+
+template: 13-7-21
+![:positionImage 20%, 30%, 0deg, 90%](image39.jpg)
+
+
+template: 13-7-22
+![:positionImage 20%, 30%, 0deg, 90%](image40.jpeg)
+-->
+
+---
+template: 13-7-23
+
+---
+template: 13-7-24

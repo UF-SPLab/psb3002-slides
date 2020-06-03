@@ -1,0 +1,323 @@
+---
+title: 
+subtitle: 
+author: 
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# Chapter 8:  Control of Movement
+
+#### General Principles of Motor Behavior  
+#### Skeletal Muscle Anatomy and Physiology  
+#### Proprioception and Reflexes  
+#### Control of Movement by the Brain  
+#### Movement Disorders 
+
+![:positionImage 20%, 57%, 0deg, 100%](Picture1.png)
+
+.Large.bolder[
+<span style="position:absolute; top:25%; left:84%;z-index:1; background-color:none;  opacity:0.75; font-size:1em; padding:0.05em;color:black">skeletal muscle</span>
+]
+
+.Large.bolder[
+<span style="position:absolute; top:45%; left:84%;z-index:1;background-color:none; opacity:0.75; font-size:1em; padding:0.2em;color:black">cardiac muscle</span>
+]
+.Large.bolder[
+<span style="position:absolute; top:65%; left:84%;z-index:1;background-color:none; opacity:0.75; font-size:1em; padding:0.2em;color:black">smooth muscle</span>
+]
+
+![:footer](chapter 8.2)
+
+---
+name: 8-2-2
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### Basic Components of Muscles. 
+
+- skeletal muscle composed of many myofibers
+- each myofiber composed of many myofibrils
+- myofibrils composed of actin and myosin filaments
+- actin and myosin in repeating sarcomeres
+
+{{content}}
+
+![:positionShape 27%, 67%](images/rt-arrow.png)
+![:positionShape 43%, 67%](images/rt-arrow.png)
+![:positionShape 57%, 67%](images/rt-arrow.png)
+![:positionShape 69%, 57%](images/rt-arrow.png)
+![:positionShape 76%, 53%](images/rt-arrow.png)
+
+![:positionShape 86%, 15%, -45deg](images/up-arrow.png)
+![:positionShape 85%, 21%, -45deg](images/up-arrow.png)
+![:positionShape 84.5%, 26%, -45deg](images/up-arrow.png)
+
+
+---
+name: 8-2-3
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+
+### Basic Components of Muscles. 
+- myosin “cross bridges “row” against the actin filaments 
+   to contract the muscle by reducing the length of the sarcomere
+
+---
+name: 8-2-4
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+
+### Antagonistic Muscle Pairs. 
+.pull-left[
+- skeletal muscles arranged in opposing pairs
+- contraction of flexor muscle produces limb flexion
+- contraction of extensor muscle produces limb extension
+- e.g. 
+    - bicep = flexor
+    - tricep = extensor
+]
+.pull-right[{{content}}]
+
+<span style="position:absolute; top:45%; left:58%;z-index:3; background-color:none;  opacity:0.75; font-size:1em; padding:0.05em;color:black">tendon</span>
+
+<span style="position:absolute; top:53%; left:58%;z-index:1;background-color:none; opacity:0.75; font-size:1em; padding:0.2em;color:black">bicep</span>
+
+<span style="position:absolute; top:70%; left:61%;z-index:3; background-color:none;  opacity:0.75; font-size:1em; padding:0.05em;color:black">flexion</span>
+
+<span style="position:absolute; top:43%; left:85%;z-index:3; background-color:none;  opacity:0.75; font-size:1em; padding:0.05em;color:black">tendon</span>
+
+<span style="position:absolute; top:48%; left:85%;z-index:3;background-color:none; opacity:0.75; font-size:1em; padding:0.2em;color:black">tricep</span>
+
+<span style="position:absolute; top:67%; left:73%;z-index:3;background-color:none; opacity:0.75; font-size:1em; padding:0.2em;color:black">extension</span>
+
+
+---
+name: 8-2-5
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+
+.pull-left[
+
+### Antagonistic Muscle Pairs. 
+- reciprocal innervation
+- excitation of flexor/inhibition of extensor
+- excitation of extensor/inhibition of flexor
+- coordinates sequences such 
+   as waving, walking
+
+]
+
+.pull-right[
+{{content}}
+]
+
+
+![:positionShape 35%, 58%](images/rt-arrow.png)
+![:positionShape 35%, 70%](images/lt-arrow.png)
+
+![:positionShape 60%, 60%](images/rt-arrow.png)
+![:positionShape 60%, 74%](images/lt-arrow.png)
+
+---
+name: 8-2-6
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+.pull-left[
+### The Motor Unit and the Motor Pool. 
+- cranial and spinal motor neurons receive </br> thousands of synapses
+- axons exit at brainstem or ventral roots, splitting near muscle to make many axon terminals
+]
+
+---
+name: 8-2-7
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### The Motor Unit and the Motor Pool. 
+- each axon terminal innervates single muscle fiber
+
+---
+name: 8-2-8
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### The Motor Unit and the Motor Pool. 
+- all fibers innervated by single axon = motor unit
+- motor unit = smallest unit of motor activity
+- when axon fires, all myofibers contract together
+
+- fewer fibers per axon = more precise control
+- eye muscles, approx. 1 axon per 3 myofibers
+- biceps, 1 axon for more than 100 myofibers
+
+---
+name: 8-2-9
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### The Motor Unit and the Motor Pool. 
+- all innervation of muscle = motor pool
+- slow motor units = used in continuous effort 
+- fast motor units = 2 subtypes, used in fast movements
+
+---
+name: 8-2-10
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### The Neuromuscular Junction. 
+- synapse between motor neuron terminal and myofiber
+- motor end plate = site of synapse on myofiber
+
+---
+name: 8-2-11
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### The Neuromuscular Junction. 
+- end plate potential
+- single action potential in motor neuron produces very large depolarization of end plate (>>> typical EPSP)
+- reliably initiates action potential in myofiber
+- AP propagated along myofiber in both directions
+
+![:positionShape 15%, 51%](images/lt-arrow.png)
+![:positionShape 15%, 51%](images/rt-arrow.png)
+
+---
+name: 8-2-12
+layout: true
+
+# Skeletal Muscle Anatomy and Physiology
+### Action Potentials and Myofiber Contraction. 
+
+<!--
+![:positionShape 15%, 51%](images/lt-arrow.png)
+![:positionShape 15%, 51%](images/lt-arrow.png)
+![:positionShape 15%, 51%](images/rt-arrow.png)
+![:positionShape 15%, 51%](images/rt-arrow.png)
+-->
+
+---
+name: 8-2-13
+layout: true
+
+# Image Credits
+
+- slide 1:	http://www.nlm.nih.gov/medlineplus/ency/images/ency/fullsize/19917.jpg
+- slide 2:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 3:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+	https://www.youtube.com/watch?v=v71ZP8_RoOU
+- slide 4:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 5:	http://www.rci.rutgers.edu/~uzwiak/NBSpring15/NBSpringLect8_10_files/image012.jpg
+- slide 6:	http://bayareaneurosurgery.com/anatomy/anat_br_nerves.jpg
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 7:	http://img.medicalxpress.com/newman/gfx/news/hires/2013/freestanding.jpg
+	http://www.austincc.edu/apreview/NursingPics/PNSefferentPics/Picture16.jpg 
+- slide 8-9:	http://www.austincc.edu/apreview/NursingPics/PNSefferentPics/Picture16.jpg
+- slide 10:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+
+![:footer](chapter 8.2)
+
+---
+name: 8-2-14
+layout: true
+
+# Image Credits
+
+- slide 11:	http://image.slidesharecdn.com/actionpotentialnotes-111216112030-phpapp01/95/action-potential-notes-1-728.jpg?cb=1324057390
+- slide 12:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+
+![:footer](chapter 8.2)
+
+---
+template: 8-2-2
+![:positionImage 41%, 5%, 0deg, 40%](image2.png)
+
+![:positionImage 25%, 60%, 0deg, 300px](image3.jpg)
+
+
+---
+template: 8-2-3
+![:positionImage 30%, 5%, 0deg, 90%](image4.png)
+
+![:positionImage 70%, 70%, 0deg, 90%](image5.gif)
+
+
+---
+template: 8-2-4
+![:positionImage 19.5%, 74%, 0deg, 90%](image6.jpg)
+
+![:positionImage 26.5%, 55%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 8-2-5
+![:positionImage 15%, 50%, 0deg, 70%](image8.jpg)
+
+
+---
+template: 8-2-6
+![:positionImage 20%, 50%, 0deg, 90%](image9.png)
+
+![:positionImage 45%, 5%, 0deg, 90%](image10.jpeg)
+
+
+---
+template: 8-2-7
+![:positionImage 20%, 50%, 0deg, 90%](image11.png)
+
+![:positionImage 40%, 5%, 0deg, 60%](image12.png)
+
+
+---
+template: 8-2-8
+![:positionImage 20%, 50%, 0deg, 90%](image11.png)
+
+
+---
+template: 8-2-9
+![:positionImage 20%, 50%, 0deg, 90%](image11.png)
+
+
+---
+template: 8-2-10
+![:positionImage 32.5%, 22%, 0deg, 65%](image13.png)
+
+
+---
+template: 8-2-11
+![:positionImage 45%, 30%, 0deg, 80%](image14.jpg)
+
+
+---
+template: 8-2-12
+![:positionImage 25%, 20%, 0deg, 40%](image15.jpeg)
+![:positionImage 58%, 50%, 0deg, 50%](Picture16.png)
+---
+template: 8-2-13
+
+---
+template: 8-2-14

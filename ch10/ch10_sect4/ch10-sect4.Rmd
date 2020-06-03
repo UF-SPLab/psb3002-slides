@@ -1,0 +1,269 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+name: 10-4-1
+layout: true
+
+# Chapter 10:  Reproductive Behavior
+
+#### Sexual Development
+#### Hormonal Control of Sexual Behavior
+#### Neural Control of Sexual Behavior
+#### .bold[Pair Bonding and Parental Behavior]
+
+![:footer](Chapter 10.4)
+
+---
+name: 10-4-2
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Socialization and Pair Bonding. 
+- monogamous prairie voles
+- polygamous meadow voles
+
+---
+name: 10-4-3
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Socialization and Pair Bonding. 
+- prairie voles prefer mated partner in laboratory tests
+
+---
+name: 10-4-4
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Socialization and Pair Bonding. 
+.pull-left[
+- prairie voles have higher
+  expression of V1a receptor 
+  in basal forebrain
+- V1a receptor antagonist in 
+  male prairie voles disrupts 
+  pair-bonding
+- viral-mediated 
+  overexpression
+  of V1a in male meadow
+  vole increases affiliative 
+  behavior with familiar 
+  conspecific
+]
+
+---
+name: 10-4-5
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Socialization and Pair Bonding. 
+- oxytocin enhances bonding in female prairie voles
+- oxytocin receptor antagonist disrupts bonding
+
+---
+name: 10-4-6
+layout: true
+
+# Pair Bonding and Parental Behavior
+
+---
+name: 10-4-7
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Socialization and Pair Bonding. 
+- plasma oxytocin is elevated in humans after intercourse
+- nasal infusion of oxytocin boosts activity in areas that process social information
+- nasal infusion of oxytocin increases trust in experiment
+  with human subjects
+
+---
+name: 10-4-8
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Maternal Behavior. 
+.pull-left[
+- rodent pups: born altricial
+- rodent mothers: builds nest, feeds and cleans, retrieves, assists urination/defecation
+]
+.pull-right[]  
+
+.pull-left[
+- virgin female rat shows aversion to smell of pups 
+- at parturition, mother immediately cares for pups
+]
+
+---
+name: 10-4-9
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Maternal Behavior. 
+.pull-left[
+- in ovarectomized virgin rats, sequential progesterone, estradiol, prolactin in dose ranges that mimic effects of pregnancy / parturition, produces rapid adoption of pups
+]
+
+---
+name: 10-4-10
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Maternal Behavior. 
+- olfactory bulb and vomeronasal organ activate MeA
+- MeA activates anterior hypothalamus (AH)
+- AH activates periaqueductal grey (PAG) → avoidance
+- hormone actions activate MPOA, to inhibit AH and PAG
+
+
+---
+name: 10-4-11
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Maternal Behavior. 
+- MPOA also projects to VTA, activating dopaminergic projections to NAcc
+- NAcc dopamine crucial for behavioral reinforcement
+
+
+
+---
+name: 10-4-12
+layout: true
+
+# Pair Bonding and Parental Behavior
+### Paternal Behavior. 
+
+- MPOA also appears important in paternal behavior
+- less dimorphism in size of MPOA in monogamous voles
+- paternal MPOA activated upon pup exposure in monogamous voles
+
+---
+name: 10-4-13
+layout: true
+
+# Image Credits
+
+- title slide:	https://ellebeaver.files.wordpress.com/2014/05/female-brain-male-brain.jpg?w=610
+- slide 2:	http://thumbs.media.smithsonianmag.com//filer/a3/5e/a35edbae-0e5f-4be1-9b5b-4b003db285e9/04-voles-praire-babies.jpg__600x0_q85_upscale.jpg
+- slide 3:	http://www.frontiersin.org/files/Articles/649/fnbeh-03-015/image_m/fnbeh-03-015-g001.jpg
+- slide 4:	http://www.sciencemag.org/content/322/5903/900/F2.large.jpg
+- slide 5:	http://www.nature.com/neuro/journal/v9/n1/images/nn1613-F6.jpg
+- slide 6:	http://www.bloggang.com/data/ailurophile/picture/1263629241.jpg
+- slide 7:	http://scienceline.org/wp-content/uploads/2008/08/trust.jpg
+	http://sfari.org/images/blog/OxytocinBrainImagingArticle.jpg/image_medium
+- slide 8-10:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 11-12:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+
+![:footer](Chapter 10.4)
+
+
+---
+template: 10-4-1
+
+![:positionImage 60%, 30%, 0deg, 90%](image1.jpeg)
+
+
+---
+template: 10-4-2
+
+![:positionImage 40%, 10%, 0deg, 400px](image2.png)
+
+![:positionImage 40%, 55%, 0deg,450px](image3.jpeg)
+
+
+---
+template: 10-4-3
+
+![:positionImage 30%, 30%, 0deg, 600px](image4.jpg)
+
+
+---
+template: 10-4-4
+
+![:positionImage 12%, 50%, 0deg, 475px](image5.jpeg)
+
+
+---
+template: 10-4-5
+
+![:positionImage 40%, 2%, 0deg, 550px](image6a.jpg)
+![:positionImage 15%, 50%, 0deg, 550px](image6b.jpg)
+
+
+---
+template: 10-4-6
+
+![:positionImage 12%, 30%, 0deg, 375px](image7.jpeg)
+
+
+---
+template: 10-4-7
+
+![:positionImage 37%, 48%, 0deg, 550px](image8.png)
+
+![:positionImage 37%, 2%, 0deg, 500px](image9.png)
+
+
+---
+template: 10-4-8
+
+![:positionImage 12%, 45%, 0deg, 300px](image10.jpeg)
+
+![:positionImage 50%, 45%, 0deg, 300px](image11.jpeg)
+
+![:positionImage 30%, 70%, 0deg, 350px](image12.jpeg)
+
+
+---
+template: 10-4-9
+
+![:positionImage 45%, 5%, 0deg, 500px](image13.jpeg)
+
+![:positionImage 25%, 48%, 0deg, 90%](image14.jpeg)
+
+
+---
+template: 10-4-10
+
+![:positionImage 40%, 15%, 0deg, 750px](image15.jpg)
+
+![:positionImage 70%, 70%, 0deg, 90%](image16.jpeg)
+
+
+---
+template: 10-4-11
+
+![:positionImage 40%, 15%, 0deg, 750px](image17.png)
+
+
+---
+template: 10-4-12
+
+![:positionImage 40%, 15%, 0deg, 750px](image17.png)
+
+
+---
+template: 10-4-13

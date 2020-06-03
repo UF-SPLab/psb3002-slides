@@ -1,0 +1,331 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+name: 9-6-1
+layout: true
+
+# Chapter 9:  Sleep and Biological Rhythms
+
+#### Introduction - Physiology of Sleep</br>Why Do We Sleep??</br>The Role of Sleep in Learning and Memory</br>Sleep Across the Lifespan</br>Sensory Processing and Sleep</br>Mechanisms of Sleep</br>Biological Clocks</br>Dreaming</br>.bold[Sleep Disorders]
+
+![:footer](chapter 9.6)
+
+
+
+---
+name: 9-6-2
+layout: true
+
+# Sleep Disorders
+### Many Different Kinds of Sleep Disorders. 
+- circadian rhythm sleep disorder
+- insomnia
+- narcolepsy/cataplexy
+- REM behavior disorder
+- somnambulism
+
+---
+name: 9-6-3
+layout: true
+
+# Sleep Disorders
+### Circadian Rhythm Sleep Disorder - Advanced Sleep Phase. 
+- not insomnia, able to have full night sleep
+- inappropriate sleep/wake cycle timing
+
+<!--
+12:00
+11:00
+10:00
+9:00
+6:00
+8:00
+7:00
+6:00
+5:00
+4:00
+3:00
+2:00
+1:00
+7:00
+8:00
+9:00
+10:00
+11:00
+12:00
+advanced sleep phase syndrome
+delayed sleep phase syndrome
+normal
+chronotype
+-->
+
+---
+name: 9-6-4
+layout: true
+
+# Sleep Disorders
+### Circadian Rhythm Sleep Disorder - Advanced Sleep Phase. 
+- advanced body temperature and melatonin rhythms
+- familial expression and errors in PER2 genes
+- treated with bright light therapy
+
+---
+name: 9-6-5
+layout: true
+
+# Sleep Disorders
+### Circadian Rhythm Sleep Disorder - Delayed Sleep Phase. 
+
+- not insomnia, able to have full night sleep
+- inappropriate sleep/wake cycle timing
+
+<!--
+12:00
+11:00
+10:00
+9:00
+6:00
+8:00
+7:00
+6:00
+5:00
+4:00
+3:00
+2:00
+1:00
+7:00
+8:00
+9:00
+10:00
+11:00
+12:00
+advanced sleep phase syndrome
+delayed sleep phase syndrome
+normal 
+chronotype
+-->
+
+---
+name: 9-6-6
+layout: true
+
+# Sleep Disorders
+### Circadian Rhythm Sleep Disorder - Delayed Sleep Phase. 
+- delayed body temperature and melatonin rhythms
+- familial expression and errors in PER3 & CLOCK genes
+- treated with bright light therapy and melatonin
+
+---
+name: 9-6-7
+layout: true
+
+# Sleep Disorders
+### Insomnia. 
+- all forms of insomnia are dramatically overestimated
+- physicians treat without direct evidence of disorder
+- patients report much less sleep than they get
+- accordingly, diagnosis is based upon perception of problem, not problem itself
+
+---
+name: 9-6-8
+layout: true
+
+# Sleep Disorders
+### Insomnia. 
+- onset and termination insomnia: 
+- desynchronization of circadian 
+   rhythm
+
+- maintenance insomnia:
+- sleep apnea of abnormal length, prevalent in obesity
+
+
+---
+name: 9-6-9
+layout: true
+
+# Sleep Disorders
+### Narcolepsy/Cataplexy. 
+- narcolepsy = sudden need to sleep (5-30 min)
+- usually when under-stimulated / bored
+- wakes up refreshed
+- narcoleptics can skip SWS
+
+- cataplexy = fully conscious collapse (sec to min)
+- REM-like but conscious paralysis at inappropriate times
+- usually brought on by strong emotion
+
+---
+name: 9-6-10
+layout: true
+
+# Sleep Disorders
+### Narcolepsy/Cataplexy. 
+.pull-left[
+- sleep paralysis
+- REM-like but conscious paralysis at onset or 
+  termination of sleep
+- may include terrifying hypnagogic hallucinations
+]
+
+---
+name: 9-6-11
+layout: true
+
+# Sleep Disorders
+### Narcolepsy/Cataplexy. 
+- cataplexy in dogs from orexin receptor gene defect
+- lack of orexinergic neurons in humans usually due to autoimmune dysfunction triggered in adolescence
+- sleep attacks treated with stimulants (e.g. Ritalin)
+- REM-like phenomena treated with antidepressants
+
+---
+name: 9-6-12
+layout: true
+
+# Sleep Disorders
+### REM Behavior Disorder. 
+.pull-left[
+- very vigorous, often violent/dangerous acting out of dreams due to damage in pons
+- may result from stroke, or neurodegenerative disorder
+- may have genetic component
+- may be initial symptom of other disorder (e.g. PD)
+- generally treated with benzodiazepines
+]
+
+---
+name: 9-6-13
+layout: true
+
+# Sleep Disorders
+### Sleep-Walking, Night Terrors
+.pull-left[
+- occur during non-REM, generally in SWS stage 3-4
+- occur mostly in children
+- usually resolve in childhood/adolescence
+
+- sleepwalking is usually early in night, may involve complex behavior
+- not harmful to awaken, but may be confused
+
+- night terrors are diffuse extreme anxiety, awaken with scream, no memory of cause
+]
+
+---
+name: 9-6-14
+layout: true
+
+# Image Credits
+
+- title slide:	http://uk.atkins.com/uploads/Images/Blog images/beauty-sleep-shutterstock_131232221-617x416.jpg
+	http://www.thetransitionnetwork.org/images/sleep3.jpg
+- slide 2:	http://www.nationalregister.org/wp-content/uploads/2014/05/pic1.png
+- slide 3:	drawn by D.P. Devine
+- slide 4:	http://www.silversurfers.com/wp-content/uploads/2013/01/SLEEP-2.jpg
+- slide 5:	drawn by D.P. Devine
+- slide 6:	http://www.silversurfers.com/wp-content/uploads/2013/01/SLEEP-2.jpg
+- slide 7:	http://www.apg29.nu/img/1404457040-13327.jpg
+- slide 8:	http://www.premierdiagnostics.org/illust.jpg
+	http://www.silversurfers.com/wp-content/uploads/2013/01/SLEEP-2.jpg
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 9-11:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 12:	http://cdn2-b.examiner.com/sites/default/files/styles/image_content_ width/hash/51/49/ 1348256821_6135_main.jpg?itok=jfNYQiOu
+- slide 13:	http://medicmagic.net/wp-content/uploads/2012/11/sleepwalking.gif
+PSB3002, Physiological Psychology - chapter 9.6
+
+---
+template: 9-6-1
+
+![:positionImage 20%, 60%, 0deg, 70%](Picture1.png)
+
+---
+template: 9-6-2
+
+![:positionImage 12%, 40%, 0deg, 90%](image3.png)
+
+---
+template: 9-6-3
+
+![:positionImage 40%, 5%, 0deg, 90%](slide9-6-5.png)
+
+---
+template: 9-6-4
+
+![:positionImage 40%, 20%, 0deg, 60%](image4.jpeg)
+
+---
+template: 9-6-5
+
+![:positionImage 40%, 5%, 0deg, 90%](slide9-6-5.png)
+
+---
+template: 9-6-6
+
+![:positionImage 40%, 20%, 0deg, 60%](image4.jpeg)
+
+
+---
+template: 9-6-7
+
+![:positionImage 50%, 50%, 0deg, 90%](image5.jpeg)
+
+
+---
+template: 9-6-8
+
+![:positionImage 15%, 50%, 0deg, 400px](image4.jpeg)
+
+![:positionImage 50%, 50%, 0deg, 400px](image7.jpeg)
+![:positionImage 50%, 10%, 0deg, 350px](slide9-6-8.png)
+
+---
+template: 9-6-9
+
+![:positionImage 20%, 50%, 0deg, 90%](image8.jpeg)
+
+
+---
+template: 9-6-10
+
+![:positionImage 18%, 45%, 0deg, 90%](image9.jpeg)
+
+
+---
+template: 9-6-11
+
+![:positionImage 45%, 10%, 0deg, 90%](image10.jpeg)
+
+
+---
+template: 9-6-12
+
+![:positionImage 18%, 50%, 0deg, 150%](image11.png)
+
+
+---
+template: 9-6-13
+
+![:positionImage 18%, 50%, 0deg, 150%](image12.gif)
+
+---
+template: 9-6-14

@@ -1,0 +1,245 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+name: 8-5-1
+layout: true
+
+# Chapter 8:  Control of Movement
+
+#### General Principles of Motor Behavior  
+#### Skeletal Muscle Anatomy and Physiology  
+#### Proprioception and Reflexes  
+#### Control of Movement by the Brain  
+#### .bold[Movement Disorders]
+
+![:footer](chapter 8.5)
+
+---
+name: 8-5-2
+layout: true
+
+# Movement Disorders
+### Amyotrophic Lateral Sclerosis. 
+- rapidly progressive, fatal disorder
+- destruction of CNS and PNS motor neurons
+- one of most common neuromuscular diseases
+- 90-95% sporadic, but some familial, due to genetic error
+- death typically from respiratory failure in 3-5 years
+
+---
+name: 8-5-3
+layout: true
+
+# Movement Disorders
+.pull-left[
+### Amyotrophic Lateral Sclerosis. 
+- wasting of skeletal muscle
+- no sensory impairment
+- no cognitive decline, but may exhibit depression and alterations in decision-making and memory
+]
+
+---
+name: 8-5-4
+layout: true
+
+# Movement Disorders
+### Apraxias. 
+- acquired disorder of motor planning
+- not incoordination, or sensory or comprehension deficit
+
+- ideomotor apraxia: incorrect organization or sequencing of movement; left frontal or parietal lesions
+
+---
+name: 8-5-5
+layout: true
+
+# Movement Disorders
+### Apraxias. 
+- acquired disorder of motor planning
+- not incoordination, or sensory or comprehension deficit
+
+"constructional apraxia: skilled movements are intact, but inability to draw or assemble; right parietal damage"
+
+---
+name: 8-5-6
+layout: true
+
+# Movement Disorders
+.pull-left[
+### Cerebellar Ataxia. 
+- cerebellar disease or damage causing ataxia, hypotonia, astasia, and/or intention tremor
+]
+
+---
+name: 8-5-7
+layout: true
+
+# Movement Disorders
+### Huntington’s Disease. 
+- autosomal dominant disorder, chromosome 4 - CAG
+- usually onsets in early-middle age (35-50 years)
+- loss of striatal neurons, atrophy of caudate
+- characteristic boxcar ventricles
+- generally characterized by choreoid movements, psychiatric disturbances, and intellectual deterioration
+
+
+---
+name: 8-5-8
+layout: true
+
+# Movement Disorders
+### Parkinson’s Disease. 
+- destruction of dopaminergic neurons of SN and VTA
+- loss of more than 70% of neurons
+- cause unknown, genetics + toxicity?
+- Tremor
+- Rigidity
+- Akinesia/Bradykinesia
+- Postural Instability
+
+---
+name: 8-5-9
+layout: true
+
+# Movement Disorders
+### Parkinson’s Disease - Treatments. 
+- levodopa (l-dopa) + carbidopa
+- converted to dopamine by remaining axon terminals
+- selegiline (deprenyl)
+- MAO-B inhibitor
+
+- deep brain stimulation
+
+---
+name: 8-5-10
+layout: true
+
+# Image Credits
+
+- slide 1:	http://medlibes.com/uploads/Screen shot 2010-08-05 at 1.02.01 PM.png
+	http://www.dana.org/uploadedImages/Images/Spotlight_Images/DanaGuide_CH16C52_P530_spot.jpg
+- slide 2:	http://sports.mearsonlineauctions.com/ItemImages/000055/55624a_lg.jpeg
+	http://www-tc.pbs.org/about/media/about/cms_page_media/614/stephen-hawking-release.jpg
+- slide 3:	http://www.uchospitals.edu/images/gs/ei_2709.jpg
+	http://pathology.mc.duke.edu/neuropath/CNSlecture4/alsscb.jpg
+- slide 4:	http://jnnp.bmj.com/content/76/suppl_1/i22/F1.large.jpg
+	http://www.jneurosci.org/content/28/12/3030/F4.large.jpg
+- slide 5:	http://brain.oxfordjournals.org/content/brain/133/4/1239/F1.large.jpg
+	http://brain.oxfordjournals.org/content/brain/133/4/1239/F2.large.jpg
+- slide 6:	http://image.slidesharecdn.com/ataxiacerebelosa-110304173841-phpapp01/95/ataxia-cerebelosa-34-728.jpg
+	http://o.quizlet.com/.psrEiMKVbcoyMiaWMOpYg_m.png
+	https://www.studyblue.com/notes/note/n/nurs-2100-final-neurological-system/deck/6358169
+- slide 7:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+
+![:footer](chapter 8.5)
+
+---
+name: 8-5-11
+layout: true
+
+# Image Credits
+
+- slide 8:	http://pathology.mc.duke.edu/neuropath/CNSlecture4/pdnigra.jpg
+	http://www.cerebralfunctionunit.co.uk/img/repetitive behaviour.jpg
+- slide 9:	http://neurobranches.chez-alice.fr/images/imagesneurophy/synth_catechol.gif
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+
+![:footer](chapter 8.5)
+
+---
+template: 8-5-1
+
+![:positionImage 38%, 42%, 0deg, 450px](picture1.png)
+![:positionImage 40%, 79.5%, 0deg, 100%](image27.jpg)
+
+---
+template: 8-5-2
+
+![:positionImage 20%, 60%, 0deg, 75%](image3.jpeg)
+
+![:positionImage 50%, 10%, 0deg, 90%](image4.png)
+
+
+---
+template: 8-5-3
+
+![:positionImage 25%, 50%, 0deg, 90%](image5.jpeg)
+
+![:positionImage 45%, 15%, 0deg, 60%](image6.jpeg)
+
+
+---
+template: 8-5-4
+
+![:positionImage 44%, 30%, 0deg, 70%](image7.jpg)
+
+![:positionImage 71.5%, 10%, 0deg, 85%](image8.jpeg)
+
+
+---
+template: 8-5-5
+![:positionImage 65%, 5%, 0deg, 90%](image9.jpg)
+
+![:positionImage 41%, 10%, 0deg, 90%](image10.jpg)
+
+![:positionImage 65%, 37%, 0deg, 80%](image11.jpg)
+
+
+---
+template: 8-5-6
+
+![:positionImage 20%, 50%, 0deg, 400px](image12.jpg)
+
+![:positionImage 40%, 15%, 0deg, 300px](image13.png)
+
+![:positionImage 55%, 50%, 0deg, 400px](image14.jpg)
+
+
+---
+template: 8-5-7
+
+![:positionImage 46%, 20%, 0deg, 90%](image15.jpg)
+
+.Large.bolder[![:positionText 200%, 50%, 0deg, 4](Normal)]
+.Large.bolder[![:positionText 88%, 29%, 0deg, 4](Normal)]
+.Large.bolder[![:positionText 88%, 52%, 0deg, 4](Huntington’s disease)]
+
+---
+template: 8-5-8
+
+![:positionImage 55%, 10%, 0deg, 90%](image16.png)
+
+![:positionImage 15%, 60%, 0deg, 235px](image17.png)
+
+
+---
+template: 8-5-9
+![:positionImage 15%, 55%, 0deg, 300px](image18.jpg)
+
+![:positionImage 33%, 25%, 0deg, 50%](image19.jpeg)
+
+---
+template: 8-5-10
+
+---
+template: 8-5-11

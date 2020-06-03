@@ -1,0 +1,298 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 6:  Vision
+
+#### General Principles of Sensory Processing
+#### The Visual Stimulus
+#### The Anatomy of the Visual System
+#### Coding of Light and Dark
+#### Coding of Color
+#### The Primary Visual Cortex
+#### Perception of Visual Information
+
+![:footer](chapter 6.1)
+
+---
+name: 6-1-2
+layout: true
+
+
+# Chapter 6:  Vision
+
+#### .bold[General Principles of Sensory Processing]
+#### The Visual Stimulus
+#### The Anatomy of the Visual System
+#### Coding of Light and Dark
+#### Coding of Color
+#### The Primary Visual Cortex
+#### Perception of Visual Information
+
+![:footer](chapter 6.1)
+
+---
+name: 6-1-3
+layout: true
+
+
+# General Principles of Sensory Processing
+### 5 Senses 
+.pull-left[
+- vision (sight)
+- audition (hearing)
+- gustatory (taste)
+- olfactory (smell)
+- somatosensory (touch)
+
+
+- pressure
+- temperature
+- pain
+- proprioception
+
+- vestibular (balance)
+
+?????
+]
+
+---
+name: 6-1-4
+layout: true
+
+# General Principles of Sensory Processing
+### 5 Senses? Additional Considerations 
+- each system processes multiple stimulus
+- individual sensory systems have multiple types of sensory receptors and distinct hierarchical neural pathways that  extract and integrate stimulus features
+
+---
+name: 6-1-5
+layout: true
+
+# General Principles of Sensory Processing
+### Umwelt. 
+- species-specific perceptual world
+
+---
+name: 6-1-6
+layout: true
+
+# General Principles of Sensory Processing
+### Umwelt. 
+- species-specific perceptual world
+
+---
+name: 6-1-7
+layout: true
+
+# General Principles of Sensory Processing
+### Stimulus Salience. 
+.pull-left[
+- social odour recognition in most mammals, not humans
+- salience is consequence of brain processing
+- important modalities occupy relatively larger brain regions
+- all sensory information eventually encoded in neurons
+  as action potentials
+- perception depends upon which neurons are active and the rate/pattern of action potentials in those neurons
+]
+
+---
+name: 6-1-8
+layout: true
+
+
+# General Principles of Sensory Processing
+### Sensory Receptors. 
+
+- most receptors are modified specializations of primary sensory neurons that can respond to stimuli
+- others are specialized neurons
+
+
+
+---
+name: 6-1-9
+layout: true
+
+# General Principles of Sensory Processing
+### 3 Stages of Sensory processing. 
+- **Reception** (stimulus to receptor):
+    - absorption of physical energy by sensory receptor
+- **Transduction** (receptor to neuron):
+    - conversion of physical energy to electrochemical pattern in neurons
+- **Coding** (neuron to brain):
+    - correspondence between some aspect of the physical stimulus and firing of action potentials
+
+---
+name: 6-1-10
+layout: true
+
+# General Principles of Sensory Processing
+### Organization of Sensory Inputs. 
+- Receptive fields help sharpen and define sensory inputs
+    - *Larger* receptive fields in less sensitive systems
+    - *Smaller* receptive fields in more sensitive systems
+- Stimulus localization can be processed by comparing inputs of multiple receptive field inputs, limited by the spatial organization of these inputs
+
+---
+name: 6-1-11
+layout: true
+
+# General Principles of Sensory Processing
+### Adaptation to a Stimulus. 
+- tonic receptors show slow or no adaptation to a stimulus
+- phasic receptors undergo rapid adaptation
+- thus neural activity and perception shift from accurate stimulus representation
+- stimulus environment ≠ sensation ≠ perception
+
+---
+name: 6-1-12
+layout: true
+
+# General Principles of Sensory Processing
+### Hierarchical Processing.
+- successive levels of processing extract more and more complex attributes of stimulus properties
+- most sensory information is relayed through thalamus to appropriate cortical circuits
+
+
+
+---
+name: 6-1-13
+layout: true
+
+# Image Credits
+
+- slide 3:	http://my-ecoach.com/online/resources/5268/title.png
+	http://oto2.wustl.edu/cochlea/intro1.htm
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 4-6:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 7:	http://www.peregrinefund.org/visualmedia/photos/explore-raptors/gyr-eyes-250x.jpg
+- slide 8:	http://elte.prompt.hu/sites/default/files/tananyagok/physiology_practical/images/m27b278c1.png
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 9:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 10:	http://neuroclusterbrain.com/img/neuron/on_off_receptive_fields_005.jpg	
+	http://ruccs.rutgers.edu/~ikovacs/SandP2000/a_fig3.jpg
+- slide 11:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+	http://apbrwww5.apsu.edu/thompsonj/Anatomy &Physiology/2010/2010 Exam Reviews/Exam 4 Review/analgesia.gif
+
+![:footer](chapter 6.1)
+
+---
+name: 6-1-14
+layout: true
+
+# Image Credits
+
+- slide 12:	image drawn by D.P. Devine
+	http://wikipremed.com/image_science_archive_68/040701_68/348300_800px-Lobes_of_the_brain_NL.svg_68.jpg
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+
+![:footer](chapter 6.1)
+
+---
+template: 6-1-2
+
+
+---
+template: 6-1-3
+![:positionImage 40%, 40%, 0deg, 90%](image1.png)
+
+
+---
+template: 6-1-4
+![:positionImage 40%, 10%, 0deg, 55%](image5.jpeg)
+
+
+![:positionImage 40%, 50%, 0deg, 88.5%](image6.jpeg)
+
+
+---
+template: 6-1-5
+
+![:positionImage 30%, 20%, 0deg, 80%](image7.jpg)
+
+
+---
+template: 6-1-6
+
+![:positionImage 30%, 20%, 0deg, 80%](image8.jpg)
+
+
+---
+template: 6-1-7
+
+![:positionImage 20%, 55%, 0deg, 350px](image9.jpeg)
+
+
+---
+template: 6-1-8
+
+![:positionImage 33%, 10%, 0deg, 60%](image10.jpg)
+
+![:positionImage 28%, 60%, 0deg, 60%](image11.jpeg)
+
+
+![:positionText 480%, 70%, 0deg, 3](nociceptor [pain, heat] )
+.bolder[![:positionText 87%, 7%, 0deg, 3](nociceptor</br>[pain, heat])]
+.bolder[![:positionText 87%, 18%, 0deg, 3](Pacinian corpuscle</br>[touch])]
+.bolder[![:positionText 87%, 34%, 0deg, 3](auditory hair cell</br>[hearing, balance])]
+.bolder[![:positionText 87%, 78%, 0deg, 3](photoreceptors</br>[vision])]
+
+---
+template: 6-1-9
+
+![:positionImage 50%, 50%, 0deg, 40%](image12.jpeg)
+
+![:positionImage 50%, 10%, 0deg, 40%](image13.jpeg)
+
+
+---
+template: 6-1-10
+
+![:positionImage 45%, 10%, 0deg, 85%](image14.jpg)
+
+![:positionImage 45%, 50%, 0deg, 85%](image15.png)
+
+
+---
+template: 6-1-11
+
+
+![:positionImage 43%, 15%, 0deg, 60%](image16.jpg)
+
+![:positionImage 43%, 55%, 0deg, 90%](image17.jpg)
+
+
+---
+template: 6-1-12
+
+![:positionImage 33%, 50%, 0deg, 55%](image19.jpeg)
+
+
+![:positionImage 33%, 15%, 0deg, 43%](slide6-1-13.png)
+
+---
+template: 6-1-13
+
+
+---
+template: 6-1-14

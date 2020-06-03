@@ -1,0 +1,318 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 11:  Emotion
+
+#### Emotions as Response Patterns
+#### .bold[Fear and Anxiety]
+#### Anger, Aggression, and Impulse Control
+#### Communication of Emotions
+#### Feelings of Emotion
+
+![:footer](Chapter 11.2)
+
+
+---
+name: 11-2-2
+layout: true
+
+# Fear and Anxiety
+### Behavioral Tests. 
+
+- anxiety-related behavior
+- fear-inducing-stimuli
+
+---
+name: 11-2-3
+layout: true
+
+# Fear and Anxiety
+### Behavioral Tests - Anxiety-Related Behavior. 
+
+<!--
+Open Field
+Elevated Plus Maze
+Dark/Light Emergence
+-->
+
+---
+name: 11-2-4
+layout: true
+
+# Fear and Anxiety
+### Behavioral Tests - Fear-Conditioned Behavior. 
+- **associative (contextual)** fear conditioning
+
+
+<!--
+home
+cage
+habituation
+noxious stimulation
+exposure to context
+without stimulation
+-->
+
+
+---
+name: 11-2-5
+layout: true
+
+# Fear and Anxiety
+### Behavioral Tests - Fear-Conditioned Behavior. 
+
+- **associative (cued)** fear conditioning
+
+---
+name: 11-2-6
+layout: true
+
+# Fear and Anxiety
+### Behavioral Tests - Fear-Conditioned Behavior. 
+
+- **extinction** of associative (cued) fear conditioning
+
+---
+name: 11-2-7
+layout: true
+
+# Fear
+### Neural Circuitry of Fear. 
+
+- sensory input for fear-inducing stimulus to thalamus
+- “**low road**” to amygdala
+- “**high road**” to sensory cortex, hippocampus, amygdala
+
+
+---
+name: 11-2-8
+layout: true
+
+# Fear
+### Neural Circuitry of Fear. 
+
+- **lateral** amygdala (LA): 
+- receives input from neocortex (especially sensory cortices and ventromedial prefrontal cortex, or vmPFC), thalamus, and hippocampus
+- innervates **basal** amygdala, **central** amygdala, Nacc, dorsomedial thalamus (which innervates vmPFC)
+
+---
+name: 11-2-9
+layout: true
+
+# Fear
+### Neural Circuitry of Fear. 
+
+- **lateral amygdala** (LA): 
+- neuroplasticity underlying fear conditioning includes changes in responses of LA neurons to sensory inputs
+- additional changes occur in other brain regions
+
+---
+name: 11-2-10
+layout: true
+
+# Fear
+### Neural Circuitry of Fear. 
+
+- **basal amygdala** (BA): 
+- receives input from lateral amygdala
+- innervates central amygdala, vmPFC
+
+---
+name: 11-2-11
+layout: true
+
+# Fear
+### Neural Circuitry of Fear. 
+
+- **central amygdala** (CeA): 
+- receives input from lateral and
+  basal amygdala
+- innervates hypothalamus, 
+  midbrain, pons, medulla
+
+
+---
+name: 11-2-12
+layout: true
+
+# Fear
+### Neural Circuitry of Fear. 
+
+- **central amygdala** (CeA): 
+- damage to CeA reduces or eliminates fear responses
+- stimulation of CeA elicits fear
+- chronic stimulation of CeA causes stress-linked disorders
+
+---
+name: 11-2-13
+layout: true
+
+# Fear
+### Extinction of Fear. 
+
+- **ventromedial prefrontal cortex**
+  (vmPFC): 
+- extinction ≠ forgetting
+- active learning that CS no
+  longer predicts US
+- memory not erased, but 
+  responses are inhibited
+
+---
+name: 11-2-14
+layout: true
+
+# Image Credits
+
+- slide 2:	http://consonantlyspeaking.com/sites/consonantlyspeaking.com/files/images/anxiety-symptoms-cartoon.png
+	https://lh3.ggpht.com/aIrpJa5-CgUrOfWcwwrgYrxOPT-ffgRLrXGap-gkYi8S8lORrdzsn6AqgIJ 4KiMMIwE=w300
+- slide 3:	http://www.nature.com/nrd/journal/v4/n9/images/nrd1825-f4.jpg
+- slide 4:	http://www.nature.com/nrn/journal/v9/n1/fig_tab/nrn2297_F2.html
+- slide 5-7:	http://www.mindsmachine.com/asf/11/11.01.01.jpg
+- slide 8-11:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 12:	http://www.surgicalneurologyint.com/articles/2013/4/1/images/SurgNeurolInt_2013_4_1_75_ 112825_f3.jpg
+- slide 13:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+
+![:footer](Chapter 11.2)
+
+
+
+---
+template: 11-2-2
+![:positionImage 15%, 60%, 0deg, 400px](image2.png)
+![:positionImage 35%, 5%, 0deg, 600px](slide11-2-2.png)
+
+---
+template: 11-2-3
+
+![:positionImage 22%, 15%, 0deg, 70%](slide11-2-3.png)
+
+
+
+
+---
+template: 11-2-4
+
+![:positionImage 35%, 10%, 0deg, 900px](slide11-2-4.png)
+
+
+
+
+---
+template: 11-2-5
+
+![:positionImage 40%, 10%, 0deg, 700px](slide11-2-5.png)
+
+
+---
+template: 11-2-6
+
+![:positionImage 27%, 10%, 0deg, 900px](slide11-2-6.png)
+
+
+
+---
+template: 11-2-7
+
+![:positionImage 37%, 15%, 0deg, 70%](slide11-2-7.png)
+
+
+
+
+---
+template: 11-2-8
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-8.png)
+
+
+---
+template: 11-2-9
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-8.png)
+
+
+---
+template: 11-2-10
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-10.png)
+
+
+---
+template: 11-2-11
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-11.png)
+
+![:positionImage 12%, 60%, 0deg, 320px](slide11-2-11a.png)
+
+---
+template: 11-2-11
+count: false
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-11.png)
+
+![:positionImage 12%, 60%, 0deg, 320px](slide11-2-11b.png)
+
+---
+template: 11-2-11
+count: false
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-11.png)
+
+![:positionImage 12%, 60%, 0deg, 320px](slide11-2-11c.png)
+
+---
+template: 11-2-11
+count: false
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-11.png)
+
+![:positionImage 12%, 60%, 0deg, 320px](slide11-2-11d.png)
+
+---
+template: 11-2-11
+count: false
+
+![:positionImage 45%, 15%, 0deg, 400px](slide11-2-11.png)
+
+![:positionImage 12%, 60%, 0deg, 320px](slide11-2-11e.png)
+
+---
+template: 11-2-12
+
+![:positionImage 42%, 20%, 0deg, 110%](image15.jpeg)
+
+
+---
+template: 11-2-13
+
+![:positionImage 40%, 0%, 0deg, 900px](slide11-2-13.png)
+
+.Large.bolder[
+![:positionText 25%, 58%, 0deg, 90%, 4](Ventromedial</br> Prefrontal Cortex)
+]
+![:positionImage 12%, 77%, 0deg, 90%](image16.jpg)
+
+
+---
+template: 11-2-14

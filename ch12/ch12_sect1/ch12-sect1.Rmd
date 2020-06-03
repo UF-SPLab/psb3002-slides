@@ -1,0 +1,225 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+
+# Chapter 12:  Ingestive Behavior
+
+#### Physiological Regulatory Mechanisms
+#### Fluid Regulation
+#### Nutrition and Metabolism
+#### Obesity and Anorexia / Bulimia
+
+![:footer](Chapter 12.1)
+
+---
+
+# Chapter 12:  Ingestive Behavior
+
+#### .bold[Physiological Regulatory Mechanisms]
+#### Fluid Regulation
+#### Nutrition and Metabolism
+#### Obesity and Anorexia / Bulimia
+
+![:footer](Chapter 12.1)
+
+---
+name: 12-1-3
+layout: true
+
+
+# Physiological Regulatory Mechanisms
+### Homeostasis. 
+
+.pull-left[
+
+> “any self-regulating process by which biological systems tend to maintain stability while adjusting to [constantly changing] conditions” (Encyclopedia Britannica)
+
+]
+
+<!--
+
+ingestive behavior
+(correctional mechanism 1)
+feedback
+detector
+output
+(correctional mechanism 2)
+system variable
+-->
+
+---
+name: 12-1-4
+layout: true
+
+# Physiological Regulatory Mechanisms
+### Homeostasis. 
+.pull-left[
+- **set point**: optimum value of a system variable under homeostatic regulation
+- **set range**: tolerable variability around the set point
+]
+
+---
+name: 12-1-5
+layout: true
+
+# Physiological Regulatory Mechanisms
+### Homeostasis. 
+- **set point**: optimum value of a system variable under homeostatic regulation
+- **set range**: tolerable variability around the set point
+- **anticipation**: typically, physiological regulation does not wait until physiological deficits are experienced
+- regulation is enacted in anticipation of future needs
+
+<!--
+
+104
+102
+100
+98
+96
+40
+39
+38
+37
+36
+°F
+°C
+
+hardexercise
+hard work
+emotion
+normal
+early
+morning
+-->
+
+---
+name: 12-1-6
+layout: true
+
+# Physiological Regulatory Mechanisms
+### Physiological and Behavioral Homeostasis. 
+- bidirectional physiological sensing and physiological response
+
+---
+name: 12-1-7
+layout: true
+
+
+# Physiological Regulatory Mechanisms
+### Physiological and Behavioral Homeostasis. 
+- bidirectional physiological sensing and behavioral response
+
+---
+name: 12-1-8
+layout: true
+
+# Physiological Regulatory Mechanisms
+### Physiological and Behavioral Homeostasis. 
+- redundancy: multiple monitors and correction mechanisms, attests to importance of homeostasis
+
+---
+name: 12-1-9
+layout: true
+
+# Physiological Regulatory Mechanisms
+### Homeostasis. 
+- regulatory systems for nutrition and hydration
+- thirst and hunger: motivational systems, trigger intake
+- satiety mechanisms: monitor correction behavior, not system variable, anticipate replenishment after delay
+
+---
+name: 12-1-10
+layout: true
+
+# Image Credits
+
+- slide 3:	Kandel, E.R., Schwartz, J.H., Jessell, T.M., Seigelbaum, S.A., and Hudspeth, A.J. (2012). Principles of Neural Science, 5th ed. McGraw-Hill Professional
+- slide 4:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 5:	http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Body_Temp_Variation.png/250px -Body_Temp_Variation.png
+- slide 6-8:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 9:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+
+![:footer](Chapter 12.1)
+
+
+---
+template: 12-1-3
+
+![:positionImage 37%, 40%, 0deg, 90%](slide12-1-2a.png)
+
+---
+template: 12-1-3
+count: false 
+
+![:positionImage 37%, 40%, 0deg, 90%](slide12-1-2up.png)
+
+---
+template: 12-1-3
+count: false 
+
+![:positionImage 37%, 40%, 0deg, 90%](slide12-1-2dn.png)
+
+---
+template: 12-1-3
+count: false 
+
+![:positionImage 37%, 40%, 0deg, 90%](slide12-1-2fb.png)
+
+
+---
+template: 12-1-4
+![:positionImage 14%, 50%, 0deg, 80%](image2.jpeg)
+
+
+---
+template: 12-1-5
+![:positionImage 41%, 15%, 0deg, 90%](slide12-1-5.png)
+
+
+---
+template: 12-1-6
+![:positionImage 28%, 10%, 0deg, 90%](image4.jpeg)
+
+
+---
+template: 12-1-7
+![:positionImage 30%, 20%, 0deg, 600px](image5.jpg)
+
+
+---
+template: 12-1-8
+
+![:positionImage 53%, 30%, 0deg, 500px](image6.jpeg)
+
+![:positionImage 28%, 30%, 0deg, 500px](image7.jpg)
+
+
+---
+template: 12-1-9
+![:positionImage 40%, 10%, 0deg, 1000px](image8.jpeg)
+
+---
+template: 12-1-10

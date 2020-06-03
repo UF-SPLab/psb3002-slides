@@ -1,0 +1,279 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+name: 9-5-1
+layout: true
+
+# Chapter 9:  Sleep and Biological Rhythms
+
+#### Introduction - Physiology of Sleep</br>Why Do We Sleep??</br>The Role of Sleep in Learning and Memory</br>Sleep Across the Lifespan</br>Sensory Processing and Sleep</br>Mechanisms of Sleep</br>.bold[Biological Clocks</br>Dreaming]</br>Sleep Disorders
+
+
+![:footer](chapter 9.5)
+
+---
+name: 9-5-2
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus. 
+- SCN is the primary biological clock, located just above the optic chiasm
+
+---
+name: 9-5-3
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus. 
+- responsive to light/dark phases of visual inputs from retino-suprachiasmatic-hypothalamic tracts, originating from melanopsin-containing retinal ganglion cells
+
+
+---
+name: 9-5-4
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus. 
+.pull-left[
+- SCN activity is elevated in daytime, decreased at night
+- SCN activity opposes sleep drive in diurnal animals;
+   promotes sleep in nocturnal animals
+]
+
+
+---
+name: 9-5-5
+layout: true
+
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus. 
+- individual SCN neurons generate endogenous daily
+  rhythm based upon regulation of gene expression
+
+---
+name: 9-5-6
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus. 
+- at least 7 genes and protein products implicated
+- cycle takes about 24 hrs
+
+---
+name: 9-5-7
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus. 
+- chronotype varies by age
+- specific gene polymorphisms may be associated with “lark” and “owl” chronotypes
+- needs further study
+
+---
+name: 9-5-8
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus and Melatonin. 
+- indirect projections (via sympathetic ganglia) to pineal
+- regulates release of melatonin
+- melatonin increases at night, seasonally longer night = more melatonin
+
+---
+name: 9-5-9
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus and Melatonin. 
+- taken as sleep aid due to mild sedative action, and due to increase in responsiveness of SCN to morning light
+
+---
+name: 9-5-10
+layout: true
+
+# Biological Clocks
+### The Suprachiasmatic Nucleus and Melatonin. 
+.pull-left[
+- melatonin regulates seasonal variations in behavior
+]
+
+---
+name: 9-5-11
+layout: true
+
+# Dreaming
+### REM Sleep and Dreaming - PGO Waves. 
+- distinctive pattern of high amplitude waves 
+- first appear in pons, then in LGN, then in occipital cortex - then waves spread to more of thalamus and cortex
+
+---
+name: 9-5-12
+layout: true
+
+# Dreaming
+### Activation-Synthesis Hypothesis of Dreaming. 
+- brain synthesizes random spontaneous or evoked (environmental stimulation) neuronal activity into a story
+- brain aroused during REM, ready to process stimuli, but body is “shut down” so brain processes memories
+- additional input contributed by emotional, vestibular, other residual sensory inputs.
+
+---
+name: 9-5-13
+layout: true
+
+# Dreaming
+### REM Sleep and Dreaming. 
+- increased activity in LGN and occipital cortex, amygdala, hippocampus, and cingulate cortex, pons
+- decreased activity in dorsolateral  prefrontal cortex
+
+---
+name: 9-5-14
+layout: true
+
+# Image Credits
+
+- title slide:	http://www.learning-mind.com/wp-content/uploads/2013/11/lucid-dreaming.jpg
+- slide 2:	Pinel, J.P.J. (1997). Biopsychology, 4th ed. Allyn and Bacon
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 3:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 4-5:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+- slide 6-7:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 8:	http://pharmrev.aspetjournals.org/content/62/3/343/F1.large.jpg
+- slide 9:	http://ceri.com/j27mel-1.gif
+- slide 10:	https://s-media-cache-ak0.pinimg.com/236x/a8/8c/a7/a88ca73a19d97f7af24c82b051d152f2 .jpg
+	http://www.bio.miami.edu/dana/pix/rutting.jpg
+	http://upload.wikimedia.org/wikipedia/commons/5/51/Turdus_merula_Nesting.jpg
+	http://www.euclidlibrary.org/images/tickle-your-brain/bears-hibernation.jpg?sfvrsn=0
+- slide 11:	http://image.slidesharecdn.com/ppt-chap-9-100317154413-phpapp01/95/ppt-chap-9-44-728.jpg?cb=1268858747
+
+![:footer](chapter 9.5)
+
+---
+name: 9-5-15
+layout: true
+
+# Image Credits
+
+- slide 12:	http://www.howsleepworks.com/images/activation_synthesis.jpg
+- slide 13:	http://thebrain.mcgill.ca/flash/d/d_11/d_11_cr/d_11_cr_cyc/d_11_cr_cyc_2a.jpg
+
+![:footer](chapter 9.5)
+
+
+---
+template: 9-5-1
+
+![:positionImage 25%, 51.5%, 0deg, 575px](image1.png)
+
+
+---
+template: 9-5-2
+
+![:positionImage 30%, 2%, 0deg, 90%](image2.png)
+
+![:positionImage 30%, 42%, 0deg, 90%](image3.jpg)
+
+
+---
+template: 9-5-3
+
+![:positionImage 33%, 5%, 0deg, 60%](image4.jpeg)
+
+![:positionImage 60%, 5%, 0deg, 50%](image5.jpeg)
+
+![:positionImage 30%, 42%, 0deg, 90%](image3.jpg)
+
+
+---
+template: 9-5-4
+
+![:positionImage 38%, 20%, 0deg, 85%](image7.jpg)
+![:positionImage 12%, 50%, 0deg, 70%](slide9-5-4.png)
+
+---
+template: 9-5-5
+
+![:positionImage 33%, 40%, 0deg, 90%](image8.jpg)
+
+
+---
+template: 9-5-6
+
+![:positionImage 12%, 50%, 0deg, 60%](image9.jpeg)
+
+
+---
+template: 9-5-7
+
+![:positionImage 33%, 40%, 0deg, 60%](image10.jpeg)
+
+
+---
+template: 9-5-8
+
+![:positionImage 38%, 10%, 0deg, 80%](image11.jpg)
+
+
+---
+template: 9-5-9
+
+![:positionImage 30%, 10%, 0deg, 90%](image12.gif)
+
+
+---
+template: 9-5-10
+
+![:positionImage 29%, 14%, 0deg, 310px](image13.png)
+
+![:positionImage 29%, 40%, 0deg, 600px](image14.png)
+
+![:positionImage 66%, 40%, 0deg, 300px](image15.jpeg)
+
+![:positionImage 66%, 64.75%, 0deg, 300px](image16.jpeg)
+
+
+---
+template: 9-5-11
+
+![:positionImage 33%, 10%, 0deg, 800px](image17.jpg)
+
+
+---
+template: 9-5-12
+
+![:positionImage 40%, 10%, 0deg, 400px](image18.jpeg)
+
+
+---
+template: 9-5-13
+
+![:positionImage 35%, 10%, 0deg, 900px](image19.png)
+
+
+---
+template: 9-5-14
+
+---
+template: 9-5-15
