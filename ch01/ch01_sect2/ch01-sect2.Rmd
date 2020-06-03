@@ -1,0 +1,267 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 1:  Introduction
+
+#### Introduction: What is Behavioral Neuroscience?
+#### Biological Explanations of Behavior
+#### Applications of Behavioral Neuroscience
+#### .bold[Understanding Human Consciousness]
+#### Natural Selection and Evolution
+#### Ethical Issues in Research with Animals
+
+![:footer](chapter 1.2)
+
+
+
+---
+name: 1-2-2
+layout: true
+
+# Understanding Human Consciousness
+### The Problem of Mind/Brain/Behavior Relations.
+.pull-left[
+- **Mentalism**:  
+    - immaterial mind is responsible for behavior
+
+> .small[ “All human intellectual functions produced by person’s mind, or psyche” (Aristotle, 384-322 BCE)]
+
+]
+.pull-right[
+- .bold[*Problem*]: How does an immaterial mind interact with
+  a material body?
+
+> .small[Psyche (soul), a maiden who married Cupid (desire) and thereby became a god (Apuleius, 2nd century)]
+
+]
+
+---
+name: 1-2-3
+layout: true
+
+# Understanding Human Consciousness
+### The Problem of Mind/Brain/Behavior Relations.
+.pull-left[
+- **Dualism**:  
+    - Body is physical but mind is not; mind and brain are separate but interacting
+  
+> “Pineal gland is the seat of the soul” (Descartes, 1649)
+
+]
+.pull-right[
+- .bold[*Problem*]: *How does an immaterial mind influence a material brain?*
+]
+
+---
+name: 1-2-4
+layout: true
+
+# Understanding Human Consciousness
+
+### The Problem of Mind/Brain/Behavior Relations.
+.pull-left[
+- .bold[*Big Problem*]: Mentalism and Dualism are not scientific perspectives
+
+]
+.pull-right[
+**Law of Conservation of Energy**:  
+- The only way to accelerate matter or to transform energy is to act upon it with other matter or energy.
+- Need for Heuristic Approaches: Fruitful research strategies
+]
+
+---
+name: 1-2-5
+layout: true
+
+# Understanding Human Consciousness
+
+### The Problem of Mind/Brain/Behavior Relations.
+.pull-left[
+- **Monism**: the world consists only of matter and energy and conscious experience is part of it; consciousness is really activity of the brain
+]
+.pull-right[
+> “Men ought to know that from nothing else but the brain come joys, delights, laughter and sports, sorrows, griefs, despondency, and lamentations” (Hippocrates, 460-370 BCE)
+]
+
+---
+name: 1-2-6
+layout: true
+
+# Understanding Human Consciousness
+### Continuing Challenges.
+.pull-left[
+- **Easy Problem**:  
+    - Identification of which brain activity relates to which experience or behavior
+]
+.pull-right[
+- **Hard Problem**: 
+    - *Does consciousness emerge from brain activity, and if so - how does this occur?*
+]
+
+---
+name: 1-2-7
+layout: true
+
+# Understanding Human Consciousness
+### Continuing Challenges.
+.pull-left[
+- **Easy Problem**:  
+    - Identification of which brain activity relates to which experience or behavior
+]
+.pull-right[
+- **Hard Problem**: 
+    - *Does consciousness emerge from brain activity, and if so - how does this occur?*
+]
+
+---
+name: 1-2-8
+layout: true
+
+# Understanding Human Consciousness
+.pull-left[
+### Blindsight.
+- 2 Visual systems:	
+    - **Primitive** 
+        - found in fish, reptiles, etc.
+    - **Complex** 
+        - mammals have both systems
+]
+
+---
+name: 1-2-9
+layout: true
+
+# Understanding Human Consciousness
+.pull-left[
+### Split Brain.
+- Surgical transection of corpus callosum </br> to control seizures
+]
+
+---
+name: 1-2-10
+layout: true
+
+# Understanding Human Consciousness
+### Unilateral Neglect.
+- Damage to right parietal cortex
+- Reported lack of awareness of left half of objects (including self)
+
+---
+name: 1-2-11
+layout: true
+
+# Understanding Human Consciousness
+### Wilder Penfield.
+.pull-left[
+- Electrically stimulated brain sites during surgical ablations (removing epileptic foci)
+- Occasionally, stimulation evoked visual or auditory hallucinations
+]
+.pull-right[
+> “Whoa! That was a good one! Try it, Hobbs - Just poke his brain right where my finger is.”
+]
+
+---
+name: 1-2-12
+layout: true
+
+# Image Credits
+
+- slide 2:	http://en.wikipedia.org/wiki/Cupid_and_Psyche
+- slide 3:	Carlson, N.R. (2012). Physiology of Behavior, 11th edition
+	http://www.destinypictures.net/eyeofhorus.html
+	http://galleryhip.com/hemispheres-of-the-brain.html
+- slide 4:	http://www.likesbooks.com/fairytale.html
+- slide 5:	http://www.thecni.org/features/by-condition-2/traumatic-brain-injury/
+	http://www.china-mike.com/china-tourist-attractions/hong-kong/history-timeline-part2/
+- slide 6:	http://ookaboo.com/o/pictures/picture/21079402/Midline_structures_in_the_ brainstem_and_
+- slide 7:	Squire, L.R., Berg, D., Bloom, F.E., du Lac, S., Ghosh, A., and Spitzer, N.C. (2012) Fundamental Neuroscience, 4th edition. Academic Press
+- slide 8:	Carlson, N.R. (2012). Physiology of Behavior, 11th edition, Pearson Pub.
+- slide 9:	Carlson, N.R. (2012). Physiology of Behavior, 11th edition, Pearson Pub.
+- slide 10:	Carlson, N.R. (2012). Physiology of Behavior, 11th edition, Pearson Pub.
+- slide 11:	http://commons.wikimedia.org/wiki/File:Wilder_Penfield.jpg
+	http://jokeallucan.blogspot.com/2013/08/whoa-that-was-good-one-try-it-hobbs.html
+
+![:footer](chapter 1.2)
+
+
+---
+template: 1-2-2
+![:positionImage 50%, 60%, 0deg, 50%](image1.jpeg)
+
+
+---
+template: 1-2-3
+![:positionImage 55%, 20%, 0deg, 50%](image2.jpeg)
+
+![:positionImage 50%, 60%, 0deg, 80%](image3.png)
+
+![:positionImage 50%, 15%, 0deg, 12%](image4.png)
+
+
+---
+template: 1-2-4
+![:positionImage 40%, 15%, 0deg, 90%](image5.png)
+
+
+---
+template: 1-2-5
+![:positionImage 48%, 45%, 0deg, 70%](image6.png)
+
+![:positionImage 48%, 15%, 0deg, 120%](image7.png)
+
+
+---
+template: 1-2-6
+![:positionImage 40%, 30%, 0deg, 75%](image8.png)
+
+
+---
+template: 1-2-7
+![:positionImage 40%, 25%, 0deg, 75%](image9.png)
+
+
+---
+template: 1-2-8
+![:positionImage 20%, 35%, 0deg, 95%](image10.jpeg)
+
+
+---
+template: 1-2-9
+![:positionImage 15%, 50%, 0deg, 95%](image11.png)
+
+
+---
+template: 1-2-10
+![:positionImage 35%, 10%, 0deg, 90%](image12.jpg)
+
+![:positionImage 45%, 55%, 0deg, 60%](image13.jpeg)
+
+
+---
+template: 1-2-11
+![:positionImage 50%, 10%, 0deg, 90%](image14.png)
+![:positionImage 35%, 60%, 0deg, 65%](image15.jpg)
+
+---
+template: 1-2-12

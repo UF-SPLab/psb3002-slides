@@ -1,0 +1,170 @@
+---
+title: "Ch1-2"
+author: "PSB3002"
+date: ""
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Chapter 1:  Introduction
+
+#### Introduction: What is Behavioral Neuroscience?
+#### Biological Explanations of Behavior
+#### Applications of Behavioral Neuroscience
+#### Understanding Human Consciousness]
+#### Natural Selection and Evolution
+#### Ethical Issues in Research with Animals
+
+![:footer](chapter 1.2)
+
+
+
+---
+name: 1-2-2
+layout: true
+
+# Understanding Human Consciousness
+### The Problem of Mind/Brain/Behavior Relations.
+
+- **Mentalism**:  
+    - immaterial mind is responsible for behavior
+
+> .small[ “All human intellectual functions produced by person’s mind, or psyche” (Aristotle, 384-322 BCE)]
+
+]
+
+- *Problem*]: How does an immaterial mind interact with
+  a material body?
+
+> .small[Psyche (soul), a maiden who married Cupid (desire) and thereby became a god (Apuleius, 2nd century)]
+
+]
+
+---
+name: 1-2-3
+layout: true
+
+# Understanding Human Consciousness
+### The Problem of Mind/Brain/Behavior Relations.
+
+- **Dualism**:  
+    - Body is physical but mind is not; mind and brain are separate but interacting
+  
+> “Pineal gland is the seat of the soul” (Descartes, 1649)
+
+]
+
+- *Problem*]: *How does an immaterial mind influence a material brain?*
+]
+
+---
+name: 1-2-4
+layout: true
+
+# Understanding Human Consciousness
+
+### The Problem of Mind/Brain/Behavior Relations.
+
+- *Big Problem*]: Mentalism and Dualism are not scientific perspectives
+
+]
+
+**Law of Conservation of Energy**:  
+- The only way to accelerate matter or to transform energy is to act upon it with other matter or energy.
+- Need for Heuristic Approaches: Fruitful research strategies
+]
+
+---
+name: 1-2-5
+layout: true
+
+# Understanding Human Consciousness
+
+### The Problem of Mind/Brain/Behavior Relations.
+
+- **Monism**: the world consists only of matter and energy and conscious experience is part of it; consciousness is really activity of the brain
+]
+
+> “Men ought to know that from nothing else but the brain come joys, delights, laughter and sports, sorrows, griefs, despondency, and lamentations” (Hippocrates, 460-370 BCE)
+]
+
+---
+name: 1-2-6
+layout: true
+
+# Understanding Human Consciousness
+### Continuing Challenges.
+
+- **Easy Problem**:  
+    - Identification of which brain activity relates to which experience or behavior
+]
+
+- **Hard Problem**: 
+    - *Does consciousness emerge from brain activity, and if so - how does this occur?*
+]
+
+---
+name: 1-2-7
+layout: true
+
+# Understanding Human Consciousness
+### Continuing Challenges.
+
+- **Easy Problem**:  
+    - Identification of which brain activity relates to which experience or behavior
+]
+
+- **Hard Problem**: 
+    - *Does consciousness emerge from brain activity, and if so - how does this occur?*
+]
+
+---
+name: 1-2-8
+layout: true
+
+# Understanding Human Consciousness
+
+### Blindsight.
+- 2 Visual systems:	
+    - **Primitive** 
+        - found in fish, reptiles, etc.
+    - **Complex** 
+        - mammals have both systems
+]
+
+---
+name: 1-2-9
+layout: true
+
+# Understanding Human Consciousness
+
+### Split Brain.
+- Surgical transection of corpus callosum </br> to control seizures
+]
+
+---
+name: 1-2-10
+layout: true
+
+# Understanding Human Consciousness
+### Unilateral Neglect.
+- Damage to right parietal cortex
+- Reported lack of awareness of left half of objects (including self)
+
+---
+name: 1-2-11
+layout: true
+
+# Understanding Human Consciousness
+### Wilder Penfield.
+
+- Electrically stimulated brain sites during surgical ablations (removing epileptic foci)
+- Occasionally, stimulation evoked visual or auditory hallucinations
+]
+
+> “Whoa! That was a good one! Try it, Hobbs - Just poke his brain right where my finger is.”
+]
