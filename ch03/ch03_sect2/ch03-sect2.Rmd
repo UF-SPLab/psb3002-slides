@@ -1,0 +1,530 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# Chapter 3:  Structure of the Nervous System
+
+#### Basic Features of the Nervous System
+#### .bold[The Central Nervous System (CNS)]
+#### The Peripheral Nervous System (PNS)
+#### Development of the Nervous System
+
+![:footer](chapter 3.2)
+
+---
+name: 3-2-2
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### Major Divisions of the Brain.
+- .bold[![:color #BA6E32](Forebrain)]
+- .bold[![:color #191970](Midbrain)]
+- .bold[![:color #17A8C5](Hindbrain)]
+]
+
+---
+name: 3-2-3
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### Major Divisions of the Brain.
+- Midsagittal section
+]
+
+---
+name: 3-2-4
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- gyri, sulci, fissures
+- hemispheres
+]
+
+---
+name: 3-2-5
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- 4 lobes
+]
+
+---
+name: 3-2-6
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- frontal or coronal section
+]
+
+---
+name: 3-2-7
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- 6 layers of cortex
+]
+
+---
+name: 3-2-8
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- primary sensory and motor cortices
+- sensory association cortices
+- multimodal areas
+]
+---
+name: 3-2-9
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- primary somatosensory (S1) and motor (M1) cortices
+]
+
+
+---
+name: 3-2-10
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- primary somatosensory (S1) and motor (M1) cortices
+]
+
+
+---
+name: 3-2-11
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- Broca’s and Wernickes’ areas
+]
+
+
+---
+name: 3-2-12
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- thalamus
+]
+
+---
+name: 3-2-13
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- basal ganglia
+]
+
+---
+name: 3-2-14
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- limbic system
+]
+
+---
+name: 3-2-15
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- hypothalamus
+]
+
+---
+name: 3-2-16
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Forebrain.]
+- pituitary gland, the “Master gland”
+]
+
+---
+name: 3-2-17
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Midbrain.]
+- tectum and tegmentum
+]
+
+---
+name: 3-2-18
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .medium[Major Divisions of the Brain - Hindbrain.]
+- pons and medulla
+]
+
+---
+name: 3-2-19
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[Major Divisions of the Brain - Hindbrain.]
+- cerebellum
+]
+
+---
+name: 3-2-20
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[The Spinal Cord.]
+- cervical
+- thoracic
+- lumbar
+- sacral
+- coccygeal
+]
+
+---
+name: 3-2-21
+layout: true
+
+# The Central Nervous System
+.pull-left[
+### .small[The Spinal Cord.]
+- gray matter = soma of interneurons & motor neurons
+- white matter = ascending/descending axonal tracts
+- .bold.blue[dorsal (ascending)] = somatosensory 
+- .bold.red[ventral (descending)] = motor
+]
+
+
+---
+name: 3-2-22
+layout: true
+
+# Image Credits
+
+- slide 2:	http://up.ejaaba.com/uploaded/20120515/U83U_1337060740.jpg
+	http://commons.wikimedia.org/wiki/Brodmann_areas?uselang=it#mediaviewer/File:Brain_Brodmann_blend.gif
+- slide 3:	http://upload.wikimedia.org/wikipedia/commons/9/99/Four_lobes_animation_small2.gif
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 4:	http://www.thewellingtonneurosurgeryunit.com/images/cerebrum.jpg
+	http://www.fullfrontalanatomy.com/images/F13/NS/Brain_SC/gyri_sulci2.jpg
+	http://upload.wikimedia.org/wikipedia/commons/9/92/Corpus_callosum.gif
+- slide 5:	http://upload.wikimedia.org/wikipedia/commons/9/99/Four_lobes_animation_small2.gif
+	http://controlmind.info/images/stories/brainstructure.png
+- slide 6:	https://new.coloradocollege.edu/dotAsset/454b53b7-cb30-4e92-9ade-4347201a0f43.jpg
+	http://www.umich.edu/~lanp/coronal2.JPG
+- slide 7:	http://what-when-how.com/wp-content/uploads/2012/04/tmp15F88.jpg
+	http://upload.wikimedia.org/wikipedia/commons/5/5b/Cajal_cortex_drawings.png
+- slide 8:	http://37.media.tumblr.com/9dbc910fdac9f0aeaa72e3550b1b8917/tumblr_mfoz0i1ZJd1rn6pqko1_ 1280.jpg
+
+![:footer](chapter 3.2)
+
+---
+name: 3-2-23
+layout: true
+
+# Image Credits
+
+- slide 9:	http://www.madscientistblog.ca/wp-content/uploads/2010/12/penfieldhomunculus.jpg
+	http://www.bio.miami.edu/tom/courses/protected/ECK/CH08/figure-08-13d.jpg
+	http://uc.exteenblog.com/highwind/images/Know/brain_homunculus1.jpg
+	http://en.wikipedia.org/wiki/Postcentral_gyrus#mediaviewer/File:Postcentral_gyrus.gif
+- slide 10:	http://www.madscientistblog.ca/wp-content/uploads/2010/12/penfieldhomunculus.jpg
+	http://www.bio.miami.edu/tom/courses/protected/ECK/CH08/figure-08-13d.jpg
+	http://uc.exteenblog.com/highwind/images/Know/brain_homunculus1.jpg
+	http://commons.wikimedia.org/wiki/Brodmann_areas?uselang=it#mediaviewer/File:Brodmann_area_4_animation_small.gif
+- slide 11:	http://my-ms.org/images/brain_functional_areas_600px.jpg
+	http://thebrain.mcgill.ca/flash/d/d_10/d_10_cr/d_10_cr_lan/d_10_cr_lan_2a.jpg
+	http://upload.wikimedia.org/wikipedia/commons/5/59/Brodmann_area_44_animation_small.gif
+	http://upload.wikimedia.org/wikipedia/commons/a/ae/Brodmann_area_45_animation_small.gif
+	http://upload.wikimedia.org/wikipedia/commons/b/b2/Wernicke%27s_area_animation.gif
+- slide 12:	http://upload.wikimedia.org/wikipedia/commons/f/f1/Thalamus.gif
+	http://www.glittra.com/yvonne/neuropics/thalconn.GIF
+	http://iflmedicine.com/wp-content/uploads/2015/01/basal-ganglia-amygdala.jpg
+
+![:footer](chapter 3.2)
+
+---
+name: 3-2-24
+layout: true
+
+# Image Credits
+
+- slide 13:	http://upload.wikimedia.org/wikipedia/commons/4/41/Caudate_nucleus.gif
+	http://upload.wikimedia.org/wikipedia/commons/1/18/Globus_pallidus.gif
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 14:	http://en.wikipedia.org/wiki/Brodmann_area_32#mediaviewer/File:Brodmann_area_32_animation _small.gif
+	http://upload.wikimedia.org/wikipedia/commons/9/99/Hippocampus.gif
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 15:	http://images-mediawiki-sites.thefullwiki.org/01/3/5/6/0422297102130464.gif
+	https://bhavanajagat.files.wordpress.com/2011/10/nuclei-of-hypothalamus.jpg
+- slide 16:	http://droualb.faculty.mjc.edu/Course Materials/Physiology 101/Chapter Notes/Fall 2007/figure_06_03_labeled.jpg
+	http://droualb.faculty.mjc.edu/Course Materials/Physiology 101/Chapter Notes/Fall 2007/figure_06_04_labeled.jpg
+	http://upload.wikimedia.org/wikipedia/commons/2/2e/Pituitary_gland.gif
+- slide 17:	http://upload.wikimedia.org/wikipedia/commons/6/63/Superior_colliculus.gif
+	http://image.slidesharecdn.com/theanatomyofmidbrain-120615234825-phpapp01/95/the-anatomy-of-midbrain-8-728.jpg?cb=1339822198
+	http://o.quizlet.com/d2sMhLOr98FgOTAsCLmK2Q_m.jpg
+
+![:footer](chapter 3.2)
+
+---
+name: 3-2-25
+layout: true
+
+# Image Credits
+
+- slide 18:	http://www.austincc.edu/apreview/NursingPics/CNSPics/Picture23.jpg
+	http://upload.wikimedia.org/wikipedia/commons/0/08/Brainstem.gif
+	http://image.slidesharecdn.com/theanatomyofmidbrain-120615234825-phpapp01/95/the-anatomy-of-midbrain-9-728.jpg?cb=1339822198
+- slide 19:	http://upload.wikimedia.org/wikipedia/commons/f/fa/Cerebellum.gif
+	http://image.slidesharecdn.com/5-cns1-111102120455-phpapp02/95/5-cns-1-26-728.jpg?cb=1320253591
+	http://image.slidesharecdn.com/5-cns1-101007143826-phpapp01/95/5-cns-1-27-728.jpg?cb=1286481016
+- slide 20:	http://upload.wikimedia.org/wikipedia/commons/7/74/Thoracic_vertebra_9_close-up_superior_surface_animation.gif
+	http://www.buzzle.com/images/diagrams/nervous-system/spinal-cord-inside-the-vertebral-column.jpg
+	http://upload.wikimedia.org/wikipedia/commons/8/88/Thoracic_vertebrae_-_close-up_-_animation.gif
+	http://uhealthsystem.com/images/health-library/ei_2710.jpg
+- slide 21:	http://apbrwww5.apsu.edu/thompsonj/Anatomy & Physiology/2010/2010 Exam Reviews/Exam 4 Review/12-32_SnsryMtrTrct.JPG
+  https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg
+![:footer](chapter 3.2)
+
+
+---
+template: 3-2-2
+
+
+![:positionImage 40%, 45%, 0deg, 150%](image1.jpeg)
+
+![:positionImage 50%, 15%, 0deg, 75%](image2.gif)
+
+
+---
+template: 3-2-3
+
+  
+![:positionImage 25%, 30%, 0deg, 85%](image3.png)
+
+![:positionImage 75%, 2%, 0deg, 100%](image4.gif)
+
+
+---
+template: 3-2-4
+
+![:positionImage 18%, 85%, 0deg, 90%](image5.gif)
+![:positionImage 18%, 55%, 0deg, 90%](image7.jpeg)
+
+.right-column[
+![:image 70%](image6.png)
+]
+
+
+
+---
+template: 3-2-5
+![:positionImage 25%, 30%, 0deg, 100%](image8.png)
+
+![:positionImage 75%, 2%, 0deg, 100%](image9.gif)
+
+
+---
+template: 3-2-6
+![:positionImage 40%, 5%, 0deg, 30%](image10.png)
+![:positionImage 25%, 30%, 0deg, 85%](image11.png)
+![:positionImage 65%, 5%, 0deg, 75%](image12.jpg)
+
+
+---
+template: 3-2-7
+![:positionImage 25%, 60%, 0deg, 85%](image14.png)
+![:positionImage 25%, 20%, 0deg, 75%](image13.png)
+
+
+
+
+---
+template: 3-2-8
+![:positionImage 25%, 35%, 0deg, 110%](image15.png)
+
+
+---
+template: 3-2-9
+![:positionImage 33%, 75%, 0deg, 120%](image16.jpg)
+
+![:positionImage 33%, 35%, 0deg, 58%](image17.png)
+
+![:positionImage 33%, 20%, 0deg, 55%](image18.jpeg)
+
+![:positionImage 33%, 5%, 0deg, 55%](image19.gif)
+
+
+---
+template: 3-2-10
+![:positionImage 33%, 75%, 0deg, 120%](image20.jpg)
+![:positionImage 33%, 35%, 0deg, 60%](image17b.png)
+
+![:positionImage 33%, 20%, 0deg, 55%](image18.jpeg)
+
+![:positionImage 33%, 5%, 0deg, 50%](image21.gif)
+
+
+---
+template: 3-2-11
+![:positionImage 55%, 60%, 0deg, 150%](image22.png)
+
+![:positionImage 50%, 10%, 0deg, 80%](image23.jpg)
+
+
+![:positionImage 20%, 50%, 0deg, 45%](image25.gif)
+
+![:positionImage 20%, 70%, 0deg, 70%](image26.gif)
+
+
+---
+template: 3-2-12
+
+![:positionImage 27%, 15%, 0deg, 45%](image28.png)
+![:positionImage 67%, 1%, 0deg, 35%](image27.gif)
+
+![:positionImage 25%, 52%, 0deg, 100%](image29.png)
+
+
+---
+template: 3-2-13
+![:positionImage 35%, 5%, 0deg, 40%](image30.gif)
+
+![:positionImage 65%, 5%, 0deg, 40%](image31.gif)
+
+![:positionImage 12%, 45%, 0deg, 90%](image32.jpg)
+
+
+---
+template: 3-2-14
+![:positionImage 35%, 5%, 0deg, 37%](image33.gif)
+
+![:positionImage 12%, 45%, 0deg, 90%](image34.jpg)
+
+![:positionImage 65%, 5%, 0deg, 70%](image35.gif)
+
+
+---
+template: 3-2-15
+![:positionImage 40%, 5%, 0deg, 60%](image36.gif)
+
+![:positionImage 12%, 50%, 0deg, 85%](image37.jpg)
+
+![:positionImage 56%, 50%, 0deg, 70%](image28.png)
+
+
+---
+template: 3-2-16
+![:positionImage 12%, 75%, 0deg, 95%](image38.gif)
+
+![:positionImage 32%, 45%, 0deg, 58%](image39.png)
+
+![:positionImage 32%, 15%, 0deg, 45%](image40.png)
+
+
+---
+template: 3-2-17
+![:positionImage 40%, 5%, 0deg, 45%](image42.gif)
+![:positionImage 12%, 45%, 0deg, 55%](image41.png)
+![:positionImage 50%, 45%, 0deg, 90%](image43.png)
+
+
+---
+template: 3-2-18
+![:positionImage 40%, 5%, 0deg, 50%](image44.gif)
+
+![:positionImage 12%, 40%, 0deg, 130%](image45.jpg)
+
+![:positionImage 59%, 40%, 0deg, 65%](image46.png)
+
+
+---
+template: 3-2-19
+![:positionImage 50%, 5%, 0deg, 55%](image47.gif)
+
+![:positionImage 40%, 55%, 0deg, 100%](image48.jpg)
+
+![:positionImage 25%, 32%, 0deg, 70%](image49.jpg)
+
+![:positionImage 30%, 55%, 0deg, 90%](image50.jpg)
+
+
+---
+template: 3-2-20
+![:positionImage 30%, 30%, 0deg, 90%](image51.gif)
+
+![:positionImage 40%, 15%, 0deg, 30%](image52.gif)
+
+![:positionImage 70%, 15%, 0deg, 70%](image53.jpeg)
+
+![:positionImage 30%, 60%, 0deg, 90%](image54.png)
+
+
+---
+template: 3-2-21
+![:positionImage 45%, 10%, 0deg, 80%](image56.png)
+![:positionImage 12%, 50%, 0deg, 90%](image55.png)
+
+---
+template: 3-2-22
+
+---
+template: 3-2-23
+
+---
+template: 3-2-24
+
+---
+template: 3-2-25

@@ -1,0 +1,461 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# Chapter 4:  Psychopharmacology
+
+#### Principles of Psychopharmacology
+#### Sites of Drug Action
+#### Neurotransmitters and Neuromodulators
+
+![:footer](chapter 4.1)
+
+---
+
+# Chapter 4:  Psychopharmacology
+
+#### .bold[Principles of Psychopharmacology]
+#### Sites of Drug Action
+#### Neurotransmitters and Neuromodulators
+
+![:footer](chapter 4.1)
+
+---
+name: 4-1-3
+layout: true
+
+# Principles of Psychopharmacology
+### Definition of a Drug.
+- exogenous chemical, that is not an essential 
+   nutrient, that significantly alters function of 
+   cells when taken in  low doses
+
+### Definition of a Psychoactive Drug.
+- drugs that alter mood, thought, or behavior
+- most used to manage psychopathology
+- some used recreationally
+
+{{content}}
+
+![:positionThis -275px, -150px, -20deg](.blue[a])
+.blue[$$NaCl$$]
+
+![:positionThis 20px, 100px, 40deg](.blue[a])
+.blue[$$H_2O$$] 
+
+
+
+---
+name: 4-1-4
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacokinetics.
+- processes by which drugs are absorbed, distributed,
+   metabolized, and excreted (ADME)
+
+---
+name: 4-1-5
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacokinetics.
+- route of administration
+
+---
+name: 4-1-6
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacokinetics.
+- route of administration, cocaine
+
+---
+name: 4-1-7
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacokinetics.
+- lipid solubility is the most important factor determining entry of drug through blood-brain-barrier for psychoactive drugs
+
+---
+name: 4-1-8
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacokinetics.
+.pull-left[
+- rate of metabolism and excretion determines half-life
+- however, some drugs broken down into biologically active molecules, extending effective lifespan
+- individual differences in
+  drug metabolism
+]
+
+---
+name: 4-1-9
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- study of biochemical and physiological actions of a drug
+- study of the relationship between drug dose and effect
+
+---
+name: 4-1-10
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- study of biochemical and physiological actions of a drug
+- study of the relationship between drug dose and effect
+
+
+
+---
+name: 4-1-11
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- comparison of potencies
+
+---
+name: 4-1-12
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- non-montonic DRC reveals additional drug actions
+
+---
+name: 4-1-13
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **therapeutic index** = margin of safety
+
+
+---
+name: 4-1-14
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **agonists** = mimic or increase action of endogenous ligand (neurotransmitter, hormone, etc.)
+- **antagonists** block or decrease action of endogenous ligand
+
+---
+name: 4-1-15
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **affinity**: chemical attraction between ligand and receptor
+- **efficacy** (intrinsic activity): ability of bound ligand to activate receptor
+
+
+---
+name: 4-1-16
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.  
+.pull-left[
+.small[**competitive** ligand (direct agonist or antagonist):
+- binds to same receptor site as neurotransmitter]
+]
+
+.pull-right[
+.small[**non-competitive** ligand (indirect direct agonist or antagonist):
+- binds to different site on receptor
+- modulates actions of neurotransmitter]
+]
+
+
+---
+name: 4-1-17
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- drug efficacy in terms of maximal response
+"- drug A is a full agonist; drug B is a partial agonist"
+
+---
+name: 4-1-18
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **irreversible antagonist**: binds irreversibly to receptor or modified receptor
+- **inverse agonist**: reverses endogenous action of receptor
+
+---
+name: 4-1-19
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **sensitization** = physiological
+    - compensation causing shift to the left in the DRC
+
+
+
+
+---
+name: 4-1-20
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **tolerance** = physiological
+    - compensation causing shift to the right in the DRC
+
+
+
+---
+name: 4-1-21
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **cross sensitization**/**cross-tolerance** = repeated exposure to a drug induces increase/decrease in effectiveness of novel drug
+
+
+---
+name: 4-1-22
+layout: true
+
+# Principles of Psychopharmacology
+### Pharmacodynamics.
+- **withdrawal** = tolerance
+    - cessation of drug taking
+
+
+
+
+---
+name: 4-1-23
+layout: true
+
+
+# Image Credits
+
+- slide 3:	http://www.smartdrugs.co.uk/wp-content/uploads/2014/05/classes-of-smart-drugs.jpg
+- slide 4:	http://www.montefiore.ulg.ac.be/services/stochastic/new/lib/exe/fetch.php?w=&h=&cache=cache&media=tfe11_kvsteen5.png
+- slide 5:	http://psiwebsubr.org/SUBR/studyguides/4035studyguides/drugadministrationroutes.png
+- slide 6:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+- slide 7:	http://psiwebsubr.org/SUBR/studyguides/4035studyguides/drugabsorbtion.png
+- slide 8:	https://elcaminogmi.dnadirect.com/img/content/tests/drug_response/drug_metabolism.jpg
+	https://elcaminogmi.dnadirect.com/img/content/tests/drug_response/normalDrugMetabolism.gif
+- slide 9:	http://www.nature.com/ijir/journal/v19/n3/images/3901522f2.jpg
+- slide 10-13: Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 14-15: Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 16:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+- slide 17:	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+
+
+![:footer](chapter 4.1)
+
+---
+name: 4-1-24
+layout: true
+
+# Image Credits
+
+- slide 18:	 http://swift.cmbi.ru.nl/gv/GPCR/rvdkant/GPCR/images/ligands.jpg
+- slide 19-21: Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+- slide 22:	http://fenwayfocus.org/wp-content/uploads/2015/01/stock-footage-close-up-of-man-filling-the-syringe-up-with-heroin.jpg
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc.
+
+![:footer](chapter 4.1)
+
+
+
+---
+template: 4-1-3
+![:positionImage 30%, 50%, 0deg, 100%](image1.png)
+
+---
+template: 4-1-4
+![:positionImage 30%, 30%, 0deg, 110%](image2.png)
+
+---
+template: 4-1-5
+![:positionImage 20%, 30%, 0deg, 90%](image3.png)
+
+---
+template: 4-1-6
+![:positionImage 30%, 30%, 0deg, 70%](image4.png)
+
+---
+template: 4-1-7
+![:positionImage 30%, 5%, 0deg, 80%](image5.png)
+
+---
+template: 4-1-8
+![:positionImage 50%, 15%, 0deg, 90%](image6.jpg)
+
+---
+template: 4-1-8
+count: false
+
+.pull-right[
+<iframe width="550" height="550" src="image_pie_9_12_js.html" frameborder="0"></iframe>
+]
+![:positionImage 50%, 15%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 4-1-8
+count: false
+
+.pull-right[
+<iframe width="550" height="550" src="image_pie_12_3_js.html" frameborder="0"></iframe>
+]
+![:positionImage 50%, 15%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 4-1-8
+count: false
+
+.pull-right[
+<iframe width="550" height="550" src="image_pie_3_6_js.html" frameborder="0"></iframe>
+]
+![:positionImage 50%, 15%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 4-1-8
+count: false
+
+.pull-right[
+<iframe width="550" height="550" src="image_pie_6_9_js.html" frameborder="0"></iframe>
+]
+![:positionImage 50%, 15%, 0deg, 90%](image7.jpg)
+
+
+---
+template: 4-1-9
+![:positionImage 40%, 10%, 0deg, 350px](image10.jpg)
+![:positionImage 40%, 60%, 0deg, 350px](image11.jpg)
+
+
+---
+template: 4-1-10
+![:positionImage 35%, 30%, 0deg, 80%](image12.jpg)
+
+![:positionText 45%, 40%, -25deg, 3, green](<b>dose-response function</b>)
+
+---
+template: 4-1-11
+![:positionImage 20%, 30%, 0deg, 60%](image13.jpeg)
+
+
+---
+template: 4-1-12
+![:positionImage 30%, 30%, 0deg, 60%](image14.jpeg)
+
+---
+template: 4-1-13
+
+![:positionImage 20%, 35%, 0deg, 90%](image15.png)
+
+---
+template: 4-1-14
+![:positionImage 40%, 10%, 0deg, 90%](image16.jpeg)
+
+
+---
+template: 4-1-15
+![:positionImage 40%, 5%, 0deg, 150%](image17.jpg)
+![:positionImage 40%, 60%, 0deg, 150%](image18.jpg)
+
+.Large.bold[![:positionText 300%, 15%, 0deg, 3, red](agonist)]
+.Large.bold[![:positionText 33%, 14%, 0deg, 3, red](Agonist)]
+.Large.bold[![:positionText 33%, 67.5%, 0deg, 3, red](Antagonist)]
+
+---
+template: 4-1-16
+![:positionImage 37%, 5%, 0deg, 100%](image19.jpeg)
+
+![:positionText 300%, 15%, 0deg, 3, red](agonist)
+
+![:positionText 90%, 14%, 0deg, 3, red](<b>competitive</b> </br>agonist or antagonist)
+
+![:positionText 90%, 60%, 0deg, 3, red](<b>non-competitive</b> </br>agonist or antagonist)
+
+
+---
+template: 4-1-17
+![:positionImage 30%, 30%, 0deg, 55%](image20.jpeg)
+
+
+---
+template: 4-1-18
+![:positionImage 40%, 30%, 0deg, 100%](image21.jpeg)
+
+---
+template: 4-1-19
+![:positionImage 40%, 60%, 0deg, 75%](image22.png)
+![:positionImage 40%, 1%, 0deg, 90%](image23.jpg)
+
+![:positionText 40%, 68%, 0deg, 3, red](<b>sensitized</b>)
+![:positionText 40%, 77%, 0deg, 3, red](<b>baseline</b>)
+
+---
+template: 4-1-20
+![:positionImage 40%, 60%, 0deg, 75%](image22.png)
+![:positionImage 40%, 1%, 0deg, 90%](image24.jpg)
+
+
+![:positionText 40%, 84%, 0deg, 3, red](<b>tolerant</b>)
+![:positionText 40%, 77%, 0deg, 3, red](<b>baseline</b>)
+
+---
+template: 4-1-21
+![:positionImage 40%, 50%, 0deg, 96.75%](image23.jpg)
+![:positionImage 40%, 1%, 0deg, 90%](image24.jpg)
+
+
+
+---
+template: 4-1-22
+![:positionImage 50%, 60%, 0deg, 85%](image22.png)
+![:positionImage 15%, 60%, 0deg, 90%](image26.png)
+![:positionImage 50%, 5%, 0deg, 100%](image24.jpg)
+
+![:positionText 50%, 68%, 0deg, 3, red](<b>sensitized</b>)
+![:positionText 50%, 79%, 0deg, 3, red](<b>baseline</b>)
+![:positionText 50%, 87%, 0deg, 3, red](<b>tolerant</b>)
+
+---
+template: 4-1-23
+
+---
+template: 4-1-24

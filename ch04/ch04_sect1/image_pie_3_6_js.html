@@ -1,0 +1,77 @@
+<!doctype html>
+<svg width="500" height="500"></svg>
+<head>
+    <meta charset="utf-8">
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,900' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i' rel='stylesheet' type='text/css'>
+    <style>
+     body{
+        background-color: whitesmoke;
+     }
+
+     svg {
+        background-color: white;
+        font-family: 'Fira Sans';
+     }
+
+    .annotation-note-title, text.title {
+      font-weight: bold;
+    }
+
+    text.title {
+      font-size: 1.2em;
+    }
+
+    </style>
+</head>
+<body>
+<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+<script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.js"></script>
+
+<script type="text/javascript">
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+var images = svg.selectAll("image").data([0]);
+
+images.enter()
+    .append("svg:image")
+    .attr("xlink:href", "image8.png")///"file:///D:/d3js_projects/refresh.png")
+    .attr("id","basepic")
+    .attr("x", "0")
+    .attr("y", "0")
+    .attr("width", "450")
+    .attr("height","450");
+
+function forEach(list,callback) {
+  for (var n = 0; n < list.length; n++) {
+    callback.call(list[n], n);
+  }
+}
+
+var cScale = d3.scaleLinear()
+               .domain([0, 100])
+               .range([0, 2 * Math.PI]);
+
+data = [[0,25,"blue"],[25,50,"none"], [50,75,"blue"], [75,100,"blue"]]
+//var vis = d3.select(“#svg_donut”);
+
+var arc = d3.arc() 
+            .innerRadius(90) 
+            .outerRadius(230)    
+            .startAngle(function(d){return cScale(d[0]);}) 
+            .endAngle(function(d){return cScale(d[1]);});
+
+svg.selectAll("path") 
+   .data(data) 
+   .enter() 
+   .append("path") 
+   .attr("d", arc) 
+   .style("fill", function(d){return d[2];}) 
+   .attr("transform", "translate(225,225)");
+
+</script>
+
+</body>

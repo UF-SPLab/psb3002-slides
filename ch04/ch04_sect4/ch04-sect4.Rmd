@@ -1,0 +1,576 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 4:  Psychopharmacology
+#### Principles of Psychopharmacology
+#### Sites of Drug Action
+#### .bold[Neurotransmitters and Neuromodulators]
+- #### classical neurotransmitters
+- #### acetylcholine
+- #### .bolder[monoamines]
+- #### amino acids
+- #### peptides and unconventional neurotransmitters
+
+![:footer](chapter 4.4)
+
+---
+name: 4-4-2
+layout: true
+class: clear
+
+# Neurotransmitters and Neuromodulators
+### Catecholamines - Synthesis, Release, Inactivation.
+.pull-left[
+- synthesized from tyrosine
+- released by exocystosis or reversal
+  of transporter
+- dopamine and norepinephrine
+  primarily inactivated by reuptake 
+  through transporters (DAT, NET)
+- dopamine also inactivated by 
+  monoamine oxidase A/B (MAO-A/B)
+  and catchol-O-methyltransferase
+  (COMT)
+- norepinephrine and epinephrine 
+  inactivated by monoamine oxidase
+  A (MAO-A) and COMT
+]
+
+---
+name: 4-4-3
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Dopamine - Neuroanatomy.
+
+---
+name: 4-4-4
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+
+
+
+---
+name: 4-4-5
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Dopamine- Functional Implications.
+.pull-left[
+- implicated in inhibition of lactation
+- implicated in movement, attention, learning, motivation
+- deficits/abnormalities in Parkinson’s disease, schizophrenia, drug addiction
+]
+
+---
+name: 4-4-6
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Dopamine – Agonists and Antagonists.
+
+
+---
+name: 4-4-7
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Dopamine - Drugs.
+
+---
+name: 4-4-8
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Norepinephrine - Neuroanatomy.
+
+---
+name: 4-4-9
+layout: true
+
+# Neurotransmitters and Neuromodulators
+.pull-left[
+### Norepinephrine - Receptors.
+- α1, α2, β1, β2, β3 adrenoceptors
+- all metabotropic
+- α1, α2, β1, β2 in CNS 
+  and PNS
+- β3 in PNS
+- all sensitive to 
+  norEPI and EPI
+- α1 produce EPSP
+- α2 autoreceptors 
+  produce IPSP
+- β1, β2 increase 
+  excitability of 
+  postsynaptic 
+  membranes
+]
+
+---
+name: 4-4-10
+layout: true
+
+# Neurotransmitters and Neuromodulators
+.pull-left[
+### Norepinephrine - Functional Implications.
+- regulation of mood, arousal and attention, sympathetic nervous system function, vasoconstriction
+- deficiency/disregulation in depression, hypotension schizophrenia, ADHD
+]
+
+---
+name: 4-4-11
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Norepinephrine – Agonists and Antagonists.
+
+---
+name: 4-4-12
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Epinephrine.
+- synthesized by adrenal medulla
+- released in response to sympathetic activation
+- minor neurotransmitter in brain
+- implicated in “fight-or-flight”
+
+---
+class: clear
+name: 4-4-13
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Indoleamines - Synthesis, Release, Inactivation.
+- 5-HT released by exocystosis or 
+  reversal of transporter
+- melatonin released by exocytosis
+  into circulation
+- 5-HT primarily inactivated by 
+  reuptake through SERT
+- 5-HT also inactivated by 
+  monoamine oxidase B (MAO-B)
+
+
+
+---
+name: 4-4-14
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Serotonin - Neuroanatomy.
+
+
+---
+name: 4-4-15
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Serotonin - Receptors.
+- binds to at least 14 different kinds of receptors
+- 5HT3 is Cl- channel
+- all others metabotropic
+- 5HT1B, 5HT1D are 
+  presynaptic 
+  autoreceptors
+
+---
+name: 4-4-16
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Serotonin - Functional Implications.
+- implicated in regulation of mood, feeding, sleep, arousal, pain, sensory processing
+- disregulation implicated in major depression, bipolar disorder, OCD
+
+
+---
+name: 4-4-17
+layout: true
+
+
+
+
+
+# Neurotransmitters and Neuromodulators
+### Serotonin – Agonists and Antagonists.
+
+
+---
+name: 4-4-18
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Melatonin.
+- released from pineal gland
+- elevated in evening, induces sleepiness
+
+---
+name: 4-4-19
+layout: true
+
+
+# Image Credits
+
+- slide 2:	 http://www.wikipedia.or.ke/images/thumb/0/08/Catecholamines_biosynthesis.svg/400px-Catecholamines_biosynthesis.svg.png 
+- slide 3:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc. 
+	http://www.trinity.edu/lespey/biol3449/lectures/lect7/Fig.5.4.jpg
+- slide 4:	http://www.nature.com/nature/journal/v455/n7213/images/455607a-f1.2.jpg
+- slide 5:	http://biomed.brown.edu/Courses/BI108/BI108_1999_Groups/Neuroelectrodes_Team/shake.gif
+	http://healthinformatics.wikispaces.com/Schizophrenia
+	http://mdx.omnia.com.mx/media/fotos/20140922_cocaina.jpg
+- slide 6:	http://www.mims.com/resources/drugs/Singapore/packshot/Sinemet CR tab6002PPS0.JPG
+	http://www.crescentpharma.com/wp-content/uploads/2014/12/Haloperidol-0.5mg.png
+	https://www.adlershop.ch/p15966/7700/risperdal-filmtabl-4-mg-20-stk-800x800.jpg
+- slide 7:	http://www.macalester.edu/academics/psychology/whathap/ubnrp/dopamine/images/tyrosine.JPEG
+- slide 8:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc. 
+	http://media2.web.britannica.com/eb-media/28/55028-004-BBF22B4C.jpg
+	http://pharmrev.aspetjournals.org/content/59/4/360/F1.large.jpg
+
+![:footer](chapter 4.4)
+
+
+---
+name: 4-4-20
+layout: true
+
+# Image Credits
+- slide 8:	http://upload.wikimedia.org/wikipedia/commons/f/f7/Adrenoceptor-Signal_transduktion.PNG
+- slide 19:	http://img2.timeinc.net/health/images/gallery/condition-centers/causes-of-adhd-400x400.jpg
+	http://www.medipoint.com/assets/images/Fight_or_Flight.JPG
+	http://urbanbellemag.com/wp-content/uploads/2012/04/black_man_sad.jpg
+	http://editthis.info/images/corposcindosis/b/b2/Blood-Vessel.jpg
+- slide 11:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	http://lisasabin-wilson.com/wp-content/uploads/2008/04/sudafed.jpg
+	http://allpillsnorx.net/wp-content/uploads/2014/11/Propranolol.png
+	http://www.cura-depresion.com/images/cymbalta.gif
+	http://disinfo-drop.s3.amazonaws.com/Adderall.jpg
+- slide 12:	http://media2.web.britannica.com/eb-media/28/55028-004-BBF22B4C.jpg
+	http://www.medipoint.com/assets/images/Fight_or_Flight.JPG
+	http://divinehealthfromtheinsideout.com/wp-content/uploads/2012/08/A4adregl.jpg
+- slide 13:	http://www.acs.org/content/acs/en/education/resources/highschool/chemmatters/past-issues/archive-2014-2015/the-science-of-sleep/_jcr_content/mainContent/columnsbootstrap_0/column0/ image_1.img.jpg/1416593802555.jpg
+- slide 14:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	Breedlove, S.M., Watson, N.V. (2013). Biological Psychology: An Introduction to Behavioral, Cognitive, and Clinical Neuroscience, 7th ed. Sinauer Associates, Inc. 
+	http://www.nature.com/mi/journal/v1/n5/images/mi200825f1.jpg
+
+![:footer](chapter 4.4)
+
+
+---
+name: 4-4-21
+layout: true
+
+# Image Credits
+
+- slide 15:	http://media.pharmacologycorner.com/wp-content/uploads/2009/09/serotonin_5ht_receptors.jpg
+- slide 16:	http://trainheroic.com/wp-content/uploads/2013/12/lower-back-pain.jpg
+	http://urbanbellemag.com/wp-content/uploads/2012/04/black_man_sad.jpg
+	http://www.socialworkhelper.com/wp-content/uploads/2013/11/bipolar-disorder.jpg
+	http://scanfree.org/wp-content/uploads/2013/07/61250.jpg
+	http://www.dumblittleman.com/wp-content/uploads/2014/05/Healthy-Eating.jpg
+	http://i.imgur.com/9KqTy6S.png
+- slide 17:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	http://www.pagunview.com/wp-content/uploads/sites/43//2013/05/acid-blotters.jpg
+	http://www.drug3k.com/img4/clozaril_11596_7_(big)_.jpeg
+	http://www.cura-depresion.com/images/cymbalta.gif
+	http://www.drugdangers.com/wp-content/uploads/2013/04/prozac.jpg
+- slide 18:	http://www.med-health.net/images/10404912/image001.jpg
+	http://ceri.com/j27mel-1.gif
+
+![:footer](chapter 4.4)
+
+
+---
+template: 4-4-2
+
+![:positionImage -2%, 70%, 0deg, 85%](image1.png)
+
+
+---
+template: 4-4-3
+
+![:positionImage 33%, 60%, 0deg, 90%](image3.jpeg)
+
+![:positionImage 33%, 0%, 0deg, 50%](image4.png)
+
+![:positionImage 12%, 35%, 0deg, 50%](image2.jpeg)
+
+---
+template: 4-4-4
+
+.pull-left[
+### Dopamine - Receptors.
+- D1 (D1 and D5) receptors
+    - metabotropic
+    - **Gs** proteins
+    - **↑** adenylate cyclase
+    - postsynaptic **EPSPs**
+
+.center[![:image 300px](slide4-4-4D1.png)]
+
+]
+
+.pull-right[
+![:image 300px](slide4-4-4-D2.png)
+
+- D2 (D2, D3 and D4) receptors
+    - metabotropic
+    - **Gi** proteins
+    - **↓** adenylate cyclase
+    - presynaptic autoreceptors
+    - postsynaptic **IPSPs**
+]
+
+
+
+
+
+
+
+
+
+
+---
+template: 4-4-5
+
+![:positionImage 20%, 70%, 0deg, 90%](image7.png)
+
+![:positionImage 12%, 45%, 0deg, 250px](image8.png)
+
+![:positionImage 45%, 5%, 0deg, 90%](image9.png)
+
+
+---
+template: 4-4-6
+
+![:positionImage 21.5%, 15%, 0deg, 75%](slide4-4-6.png)
+
+<!--
+drug inactivates 
+biosynthetic enzyme
+drug is a precursor
+L-dopa
+drug prevents storage
+drug activates
+autoreceptors
+apomorphine
+
+drug stimulates 
+NT release
+
+drug blocks
+autoreceptors
+drug inhibits
+NT release
+drug blocks/reverses
+reuptake
+cocaine, Ritalin,
+amphetamine
+drug activates
+postsynaptic receptors
+bromocriptine, 
+apomorphine
+drug inactivates 
+metabolizing
+enzyme
+drug blocks
+postsynaptic receptors
+classical neuroleptics, 
+atypical neuroleptics
+-->
+
+---
+template: 4-4-7
+![:positionImage 22%, 5%, 0deg, 85%](image14.jpeg)
+
+
+---
+template: 4-4-8
+
+![:positionImage 30%, 45%, 0deg, 80%](image15.png)
+
+![:positionImage 20%, 5%, 0deg, 45%](image16.jpeg)
+
+
+![:positionImage 68%, 5%, 0deg, 45%](image17.jpeg)
+
+
+![:positionImage 12%, 60%, 0deg, 90%](image18.jpg)
+
+
+---
+template: 4-4-9
+![:positionImage 15%, 50%, 0deg, 90%](image19.png)
+
+
+---
+template: 4-4-10
+
+![:positionImage 55%, 5%, 0deg, 90%](image20.jpeg)
+
+
+![:positionImage 12%, 50%, 0deg, 65%](image21.jpeg)
+
+![:positionImage 50%, 70%, 0deg, 80%](image22.png)
+
+![:positionImage 50%, 35%, 0deg, 300px](image23.png)
+
+
+---
+template: 4-4-11
+
+![:positionImage 22%, 15%, 0deg, 70%](slide4-4-11.png)
+
+<!--
+drug inactivates 
+biosynthetic enzyme
+drug is a precursor
+drug prevents storage
+drug activates
+autoreceptors
+
+drug stimulates 
+NT release
+drug blocks
+autoreceptors
+drug inhibits
+NT release
+drug blocks/reverses
+reuptake
+tricyclics, NSRIs,
+Ritalin/Adderall
+drug activates
+postsynaptic receptors
+bromocriptine, 
+apomorphine
+MAO-A
+drug inactivates 
+metabolizing enzyme
+drug blocks
+postsynaptic receptors
+β-blockers
+-->
+
+---
+template: 4-4-12
+![:positionImage 41%, 5%, 0deg, 65%](image28.jpg)
+
+
+![:positionImage 15%, 60%, 0deg, 55%](image21.jpeg)
+
+
+![:positionImage 40%, 60%, 0deg, 60%](image29.png)
+
+
+---
+template: 4-4-13
+![:positionImage 1%, 60%, 0deg, 420px](image30.png)
+
+
+---
+template: 4-4-14
+
+![:positionImage 12%, 50%, 0deg, 90%](image32.jpeg)
+
+![:positionImage 30%, 5%, 0deg, 90%](image33.jpeg)
+![:positionImage 62%, 50%, 0deg, 85%](image31.jpeg)
+
+---
+template: 4-4-15
+![:positionImage 15%, 45%, 0deg, 90%](image34.png)
+
+
+---
+template: 4-4-16
+
+![:positionImage 25%, 70%, 0deg, 70%](image20.jpeg)
+
+![:positionImage 32%, 5%, 0deg, 175px](image35.png)
+
+![:positionImage 63%, 5%, 0deg, 30%](image36.png)
+
+![:positionImage 63%, 70%, 0deg, 78%](image37.png)
+
+![:positionImage 63%, 37%, 0deg, 38%](image38.png)
+
+![:positionImage 32%, 30%, 0deg, 50%](image39.png)
+
+
+---
+template: 4-4-17
+
+![:positionImage 22%, 15%, 0deg, 70%](slide4-4-17.png)
+
+<!--
+
+drug inactivates 
+biosynthetic enzyme
+drug is a precursor
+drug prevents storage
+drug activates
+autoreceptors
+
+drug stimulates 
+NT release
+drug blocks
+autoreceptors
+drug inhibits
+NT release
+drug blocks/reverses
+reuptake
+SSRIs, NSRIs
+drug activates
+postsynaptic receptors
+LSD, buspirone
+MAO-A
+drug inactivates 
+metabolizing enzyme
+drug blocks
+postsynaptic receptors
+clozapine
+
+-->
+
+---
+template: 4-4-18
+
+![:positionImage 35%, 5%, 0deg, 85%](image43.jpeg)
+
+![:positionImage 35%, 45%, 0deg, 90%](image44.png)
+
+---
+template: 4-4-19
+
+---
+template: 4-4-20
+
+---
+template: 4-4-21

@@ -1,0 +1,172 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 3:  Structure of the Nervous System
+
+#### Basic Features of the Nervous System
+#### The Central Nervous System (CNS)
+#### The Peripheral Nervous System (PNS)
+#### Development of the Nervous System
+
+![:footer](chapter 3.3)
+
+---
+
+# The Peripheral Nervous System
+### Branches of the Peripheral Nervous System.
+- somatic
+- autonomic
+
+{
+PNS
+nervous
+system
+CNS
+{
+{
+brain
+spinal cord
+autonomic ns
+somatic ns
+{
+motor branch
+somatosensory branch
+{
+parasympathetic ns
+sympathetic ns
+{
+enteric ns
+{
+hindbrain
+midbrain
+forebrain
+cerebellum, pons, medulla
+tectum, tegmentum
+cortex, basal ganglia, hippocampus, 
+amygdala, thalamus, hypothalamus
+
+---
+
+# The Peripheral Nervous System
+### Spinal Nerves.
+- junction of sensory and motor
+
+
+---
+
+# The Peripheral Nervous System
+### The Somatic Branch.
+- 31 pairs of spinal nerves, dermamyotomes
+
+---
+
+# The Peripheral Nervous System
+### The Somatic Branch.
+
+3 oculomotor
+4. trochlear
+5. abducens
+2. optic
+1. olfactory
+
+
+6. trigeminal
+7. facial
+8. auditory
+9 glossopharyngeal
+blue = sensory
+red = motor
+
+- 12 pairs of cranial nerves
+12. hypoglossal
+11. spinal accessory
+
+---
+
+# The Peripheral Nervous System
+### The Autonomic Branch.
+- sympathetic
+- thoracolumbar
+- parasympathetic
+- craniosacral
+
+---
+
+# The Peripheral Nervous System
+### The Autonomic Branch.
+- sympathetic
+- fight or flight
+
+---
+
+# The Peripheral Nervous System
+### The Autonomic Branch.
+
+- parasympathetic
+- rest and digest
+
+blue = sensory
+red = motor
+green = PNS
+
+---
+
+# The Peripheral Nervous System
+### The Autonomic Branch.
+- the enteric nervous system
+
+---
+
+# The Peripheral Nervous System
+### Christopher Reeve.
+
+- implications for our 
+  understanding of his 
+  injury, and hope for 
+  advances in the 
+  medical science
+
+---
+
+# Image Credits
+
+slide 2:	drawn by D. Devine
+slide 3:	http://people.eku.edu/ritchisong/spinalcord5.gif
+slide 4:	http://www.fullfrontalanatomy.com/images/F13/NS/PNS/19Dermatomes.jpg
+	https://classconnection.s3.amazonaws.com/385/flashcards/1101385/jpg/dermatome1327099294138.jpg
+slide 5:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+	http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brain_human_normal_inferior_view_with_labels_en-2.svg/250px-Brain_human_normal_inferior_view_with_labels_en-2.svg.png
+slide 6:	http://www.merckmanuals.com/media/home/figures/NEU_autonomic_nervous_system.gif
+slide 7:	http://media-2.web.britannica.com/eb-media/28/55028-004-BBF22B4C.jpg
+	https://www.homeunion.com/wp-content/uploads/2014/04/investing-doomsday-scenario.png
+slide 8:	http://media-2.web.britannica.com/eb-media/28/55028-004-BBF22B4C.jpg
+	https://rowanjanuary.files.wordpress.com/2013/12/home-cartoon-table-chair.gif?w=634
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing
+slide 9:	http://www.nature.com/mi/journal/v1/n5/images/mi200825f1.jpg
+	http://bcs.whfreeman.com/thelifewire8e/content/cat_010/f50011.jpg	
+slide 10:	http://www.chrisreevehomepage.com/images/family/i-above_beyond.jpg
+	http://uhealthsystem.com/images/health-library/ei_2710.jpg
+
+![:footer](chapter 3.3)
+

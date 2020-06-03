@@ -1,0 +1,591 @@
+---
+title: 
+subtitle: 
+author: 
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default","metropolis","metropolis-fonts","hygge","https://afeld.github.io/emoji-css/emoji.css","libs/myassets/remark-css/header-footer.css"]
+    lib_dir: libs
+    self_contained: false
+    nature:
+      beforeInit: ["libs/myassets/remark-js/macro.js"]
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Chapter 4:  Psychopharmacology
+
+#### Principles of Psychopharmacology
+#### Sites of Drug Action
+#### .bold[Neurotransmitters and Neuromodulators]
+- ####classical neurotransmitters
+- #### acetylcholine
+- #### monoamines
+- #### .bolder[amino acids]
+- #### peptides and unconventional neurotransmitters
+
+![:footer](chapter 4.5)
+
+---
+name: 4-5-2
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Synthesis, Release, Inactivation.
+- synthesized from glucose metabolism (α-ketoglutarate) and amino acid precursors (glutamine) in axon terminals
+- recycled by glial uptake and metabolism to glutamine
+
+
+---
+name: 4-5-3
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Neuroanatomy.
+- ubiquitous
+- most abundant excitatory neurotransmitter in CNS
+
+---
+name: 4-5-4
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Receptors.
+#### .small[4 major subtypes of glutamate receptors:]
+- **AMPAR** 
+    - ionotropic 
+    - *most abundant; Na+ channel*
+- **NMDAR**
+    - ionotropic 
+    - *Ca2+ channel*
+- **kainateR**
+    - ionotropic
+    - *Na+ channel*
+- **mGluR1 -- mGluR8**
+    - metabotropic
+
+---
+name: 4-5-5
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Receptors.
+- multiple binding sites on NMDA receptor
+- glutamate; glycine, co-binding required
+- **Zn2+** 
+    - binding decreases activity
+- **polyamine** 
+    - promotes growth and development
+    - binding increases activity
+- **Mg2+**
+    - blocks Ca2+ conductance 
+- **PCP**
+    - blocks Ca2+ conductance
+
+---
+name: 4-5-6
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Functional Implications.
+.pull-left[
+- activation of NMDAR ion channel dependent upon contiguous presynaptic and postsynaptic activity
+- at RP, NMDA ion channel blocked by Mg2+
+- if depolarized, Mg2+ is expelled
+]
+.pull-right[
+- .small[Therefore, NMDARs can recognize
+   strong inputs and activate a greater
+   response than they express for
+   weak inputs.]
+]
+
+
+---
+name: 4-5-7
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Functional Implications.
+.pull-left[
+- activation of NMDAR ion channel dependent upon contiguous presynaptic and postsynaptic activity
+- at RP, NMDA ion channel blocked by Mg2+
+- if depolarized, Mg2+ is expelled
+]
+.pull-right[
+- Therefore, NMDARs function as “coincidence detectors” for strong and weak inputs that arrive simultaneously.
+]
+
+---
+name: 4-5-8
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Functional Implications.
+- sensory processing, plasticity, all brain function
+- disregulation in schizophrenia, epilepsy
+
+---
+name: 4-5-9
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Glutamate - Agonists and Antagonists.
+
+
+---
+name: 4-5-10
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### GABA - Synthesis, Release, Inactivation.
+- synthesized from glucose metabolism (α-ketoglutarate) and amino acid precursors (glutamine) in axon terminals
+- recycled by glial uptake and metabolism to glutamine
+
+
+---
+name: 4-5-11
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### GABA - Neuroanatomy.
+- ubiquitous
+- most abundant inhibitory 
+  neurotransmitter in CNS
+
+
+---
+name: 4-5-12
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+.pull-left[
+### GABA - Receptors.
+2 subtypes of GABA receptors:
+- **GABA-A**
+    - Cl- channel, postsynaptic
+- **GABA-B**
+    - G-protein-coupled to K+ channel
+        - presynaptic autoreceptor 
+        - postsynaptic receptor
+
+.small[
+- Multiple binding sites on GABA-A receptor:
+    - GABA
+    - barbiturate
+    - benzodiazepine
+    - steroid
+    - picrotoxin
+]
+]
+
+
+---
+name: 4-5-13
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### GABA - Functional Implications.
+- plasticity, all brain function
+- disregulation in epilepsy
+
+
+---
+name: 4-5-14
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### GABA – Agonists and Antagonists.
+
+
+
+---
+name: 4-5-15
+layout: true
+
+
+# Neurotransmitters and Neuromodulators
+### Glycine - Synthesis, Release, Inactivation, Neuroanatomy.
+- from glucose metabolism through serine intermediate
+- recycled by glial uptake and metabolism to glutamine
+- predominant inhibitory neurotransmitter in brainstem, spinal cord, and retina
+
+
+
+---
+name: 4-5-16
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Glycine - Receptor and Functional Implications.
+- binds to ionotropic glycine R
+    - postsynaptic Cl- channel
+    - co-factor in NMDA receptor activation
+
+---
+name: 4-5-17
+layout: true
+
+# Neurotransmitters and Neuromodulators
+### Glycine – Agonists and Antagonists.
+
+---
+name: 4-5-18
+layout: true
+
+# Image Credits
+
+- slide 2:	https://jinelleramnanan.files.wordpress.com/2013/04/0192801015-krebs-cycle-11.jpg
+	http://www.heartfixer.com/AMRI-Nutrigenomics_files/image028.jpg
+	http://classconnection.s3.amazonaws.com/89/flashcards/1205089/jpg/ketaminepcpcppt1336888009187.  .jpg
+- slide 3:	http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mouse_brain_sagittal.svg/2000px-Mouse_brain_sagittal.svg.png
+	http://thumbs.dreamstime.com/x/human-brain-structures-sagitall-view-19224051.jpg
+- slide 4:	http://www.ucl.ac.uk/~smgxt01/eaareccart.gif
+- slide 5:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+- slide 6-7:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+	animation drawn by D. Devine
+- slide 8:	http://www.nature.com/nrn/journal/v13/n7/images/nrn3258-f2.jpg
+	http://php.med.unsw.edu.au/medwiki/images/0/06/Absence.gif
+	http://4.bp.blogspot.com/-bl47bYIkNhI/UD4UNks8O_I/AAAAAAAAA1Q/nbg5mFkshmI/s1600/3.jpg
+- slide 9:	http://www.onemedstore.com/images/products/namenda.jpg
+	http://www.dawnmwilliams.com/Pictures/PCP.jpg
+- slide 10:	http://www.wormbook.org/chapters/www_gaba/gabafig1.jpg
+	http://www.heartfixer.com/AMRI-Nutrigenomics_files/image028.jpg
+	http://www.nature.com/mp/journal/v8/n8/images/4001395i1.jpg
+
+![:footer](chapter 4.5)
+
+---
+name: 4-5-19
+layout: true
+
+# Image Credits
+
+- slide 11:	http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mouse_brain_sagittal.svg/2000px-Mouse_brain_sagittal.svg.png
+	http://thumbs.dreamstime.com/x/human-brain-structures-sagitall-view-19224051.jpg
+- slide 12:	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+- slide 13:	http://www.nature.com/nrn/journal/v13/n7/images/nrn3258-f2.jpg
+	http://php.med.unsw.edu.au/medwiki/images/0/06/Absence.gif
+- slide 14:	http://rxmedico.com/wp-content/uploads/2014/03/Buy-Valium-10mg-online.jpg
+	http://cdn.builtlean.com/wp-content/uploads/2012/11/alcohol-weight-loss-1.jpg
+	http://www.akorn.com/images/products/76478-501-50_full.jpg
+- slide 15:	http://image.tutorvista.com/content/feed/u303/brainstem-large_0.jpg
+	http://upload.wikimedia.org/wikipedia/commons/f/f1/Glycine-skeletal.png
+	http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/NeuroT/Image6.gif
+- slide 16:	http://www.biochem.uni-erlangen.de/MouseDB/imgs/GlyR.jpg
+	Carlson, N.R. (2012). Physiology of Behavior, 11th ed. Pearson Publishing 
+	http://www2.cedarcrest.edu/academic/bio/hale/bioT_EID/lectures/tetanus-man-on-back.jpg
+- slide 17:	https://brainmass.com/hubsimg/1434443/ProkaryoticCell.png 	
+	https://yesteryearsnews.files.wordpress.com/2012/04/strychnine-bottle.jpg
+
+![:footer](chapter 4.5)
+
+
+
+---
+template: 4-5-2
+
+![:positionImage 35%, 15%, 0deg, 60%](slide4-5-2.png)
+
+
+---
+template: 4-5-3
+
+![:positionImage 30%, 60%, 0deg, 90%](image2.png)
+
+![:positionImage 50%, 4%, 0deg, 50%](image3.png)
+
+
+---
+template: 4-5-4
+
+![:positionImage 34%, 33%, 0deg, 80%](image4.png)
+
+
+---
+template: 4-5-5
+
+![:positionImage 30%, 45%, 0deg, 90%](image5.jpg)
+
+
+---
+template: 4-5-6
+
+![:positionImage 67%, 20%, 0deg, 50%](image5.jpg)
+
+![:positionImage 31%, 50%, 0deg, 530px](slide4-5-6.png)
+
+<!--
+
+depolarized
+[Ca2+]
+Ca2+-dependent
+enzymes (e.g.
+CAM kinase II)
+
+Ca2+
+
+NMDA
+Mg2+
+glu
+glu
+
+-70 mV
+
+Na+
+
+AMPA
+
+-->
+
+---
+template: 4-5-7
+
+![:positionImage 42%, 2%, 0deg, 50%](image6.png)
+
+
+![:positionImage 67%, 20%, 0deg, 50%](image5.jpg)
+
+![:positionImage 31%, 50%, 0deg, 530px](slide4-5-7.png)
+
+<!--
+Ca2+
+
+NMDA
+Mg2+
+glu
+
+glu
+-70 mV
+
+Na+
+
+AMPA
+ACh
+
+Na+
+
+nAChR
+
+[Ca2+]
+Ca2+-dependent
+enzymes (e.g.
+CAM kinase II)
+
+
+AMPA
+
+depolarized
+
+-->
+
+---
+template: 4-5-8
+
+![:positionImage 31%, 18%, 0deg, 80%](image9.gif)
+![:positionImage 50%, 5%, 0deg, 90%](image7.jpg)
+
+![:positionImage 12%, 50%, 0deg, 600px](image8.jpg)
+
+
+
+
+
+---
+template: 4-5-9
+
+![:positionImage 23%, 10%, 0deg, 68%](slide4-5-9.png)
+
+
+<!--
+
+![:positionImage 30%, 50%, 0deg, 90%](image10.png)
+![:positionImage 30%, 5%, 0deg, 90%](image11.png)
+![:positionImage 50%, 5%, 0deg, 90%](image12.jpeg)
+
+drug inactivates 
+biosynthetic enzyme
+drug is a precursor
+drug prevents storage
+drug activates
+autoreceptors
+
+drug stimulates 
+NT release
+drug blocks
+autoreceptors
+drug inhibits
+NT release
+drug blocks/reverses
+reuptake
+drug activates
+postsynaptic receptors
+NMDA, AMPA
+drug inactivates 
+metabolizing
+enzyme
+drug blocks
+postsynaptic receptors
+MK-801, PCP, memantine
+-->
+
+---
+template: 4-5-10
+
+![:positionImage 34%, 10%, 0deg, 70%](slide4-5-10.png)
+
+<!--
+
+  glucose
+       ↓  
+       ↓
+ 
+α-ketoglutarate
+       ↓
+
+glutamate  ↔  glutamine
+       ↓
+
+   GABA
+
+glycolysis
+
+GAD
+
+-->
+
+---
+template: 4-5-11
+
+![:positionImage 12%, 60%, 0deg, 90%](image2.png)
+
+![:positionImage 50%, 5%, 0deg, 50%](image3.png)
+
+
+---
+template: 4-5-12
+
+![:positionImage 20%, 45%, 0deg, 550px](image15.jpeg)
+
+
+
+---
+template: 4-5-13
+
+![:positionImage 15%, 40%, 0deg, 700px](image8.jpg)
+
+![:positionImage 63%, 45%, 0deg, 500px](image9.gif)
+
+
+---
+template: 4-5-14
+
+![:positionImage 23%, 10%, 0deg, 68%](slide4-5-14.png)
+
+<!--
+![:positionImage 20%, 30%, 0deg, 90%](image10.png)
+![:positionImage 20%, 30%, 0deg, 90%](image16.jpeg)
+![:positionImage 20%, 30%, 0deg, 90%](image17.jpeg)
+![:positionImage 20%, 30%, 0deg, 90%](image18.jpeg)
+
+drug inactivates 
+biosynthetic enzyme
+drug is a precursor
+drug prevents storage
+drug activates
+autoreceptors
+drug stimulates 
+NT release
+
+drug blocks
+autoreceptors
+drug inhibits
+NT release
+drug blocks/reverses
+reuptake
+drug activates
+postsynaptic receptors
+diazepam, EtOH, 
+pentobarbital
+drug inactivates 
+metabolizing
+enzyme
+
+drug blocks
+postsynaptic receptors
+
+-->
+
+---
+template: 4-5-15
+
+![:positionImage 40%, 10%, 0deg, 68%](slide4-5-16.png)
+
+---
+template: 4-5-16
+
+![:positionImage 12%, 60%, 0deg, 75%](image5.jpg)
+.grayscale.polaroid[![:positionImage 60%, 40%, 0deg, 60%](image23.jpeg)]]
+
+![:positionImage 38%, 5%, 0deg, 55%](image24.jpg)
+
+---
+template: 4-5-17
+
+![:positionImage 23%, 10%, 0deg, 68%](slide4-5-17.png)
+
+
+<!--
+![:positionImage 20%, 30%, 0deg, 90%](image10.png)
+![:positionImage 20%, 30%, 0deg, 90%](image25.png)
+![:positionImage 20%, 30%, 0deg, 90%](image26.jpeg)
+
+drug inactivates 
+biosynthetic enzyme
+drug is a precursor
+drug prevents storage
+
+drug activates
+autoreceptors
+drug stimulates 
+NT release
+drug blocks
+autoreceptors
+drug inhibits
+NT release
+tetanus toxin
+drug blocks/reverses
+reuptake
+drug activates
+postsynaptic receptors
+
+drug inactivates 
+metabolizing
+enzyme
+drug blocks
+postsynaptic 
+receptors
+strychnine
+
+-->
+
+---
+template: 4-5-18
+
+---
+template: 4-5-19
