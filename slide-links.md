@@ -1,4 +1,8 @@
 ### Chapter 1
+
+[text](https://uf-splab.github.io/psb3002-slides/ch01/ch01_sect1/ch01-sect1.html)
+
+
 - [What is Behavioral Neuroscience?](https://uf-splab.github.io/psb3002-slides/ch01/ch01_sect1/ch01-sect1.html)
 - [Biological Explanations of Behavior](https://uf-splab.github.io/psb3002-slides/ch01/ch01_sect2/ch01-sect2.html)
 - [Natural Selection and Evolution](https://uf-splab.github.io/psb3002-slides/ch01/ch01_sect3/ch01-sect3.html)
