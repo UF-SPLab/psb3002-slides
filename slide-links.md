@@ -30,6 +30,7 @@
 - [Coding of Light and Dark](https://uf-splab.github.io/psb3002-slides/ch06/ch06_sect4/ch06-sect4.html)
 - [Coding of Color](https://uf-splab.github.io/psb3002-slides/ch06/ch06_sect5/ch06-sect5.html)
 - [The Primary Visual Cortex](https://uf-splab.github.io/psb3002-slides/ch06/ch06_sect6/ch06-sect6.html)
+- [Perception of Visual Information](https://uf-splab.github.io/psb3002-slides/ch06/ch06_sect7/ch06-sect7.html)
 ### Chapter 8
 - [a](https://uf-splab.github.io/psb3002-slides/ch08/ch08_sect1/ch08-sect1.html)
 - [a](https://uf-splab.github.io/psb3002-slides/ch08/ch08_sect2/ch08-sect2.html)
@@ -38,12 +39,12 @@
 - [a](https://uf-splab.github.io/psb3002-slides/ch08/ch08_sect5/ch08-sect5.html)
 - [a](https://uf-splab.github.io/psb3002-slides/ch08/ch08_sect6/ch08-sect6.html)
 ### Chapter 9
-- [a](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect1/ch09-sect1.html)
-- [a](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect2/ch09-sect2.html)
-- [a](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect3/ch09-sect3.html)
-- [a](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect4/ch09-sect4.html)
-- [a](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect5/ch09-sect5.html)
-- [a](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect6/ch09-sect6.html)
+- [ntroduction - Physiology of Sleep](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect1/ch09-sect1.html)
+- [Why Do We Sleep??](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect2/ch09-sect2.html)
+- [Functions of Sleep](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect3/ch09-sect3.html)
+- [Mechanisms of Sleep](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect4/ch09-sect4.html)
+- [Biological Clocks and Dreaming](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect5/ch09-sect5.html)
+- [Sleep Disorders](https://uf-splab.github.io/psb3002-slides/ch09/ch09_sect6/ch09-sect6.html)
 ### Chapter 10
 - [a](https://uf-splab.github.io/psb3002-slides/ch10/ch10_sect1/ch10-sect1.html)
 - [a](https://uf-splab.github.io/psb3002-slides/ch10/ch10_sect2/ch10-sect2.html)
